@@ -30,7 +30,7 @@ The assignment delivery will be everything within the top directory **assignment
 * If you make a video demonstrating how your systems/tests work, you can put the video into any accessible link (e.g., private Youtube) and put the link into *demolink.txt*
 
 ## Programming Languages
-You must use only **Java, Scala, JavaScript/NodeJS, Python or bash scripts**
+You must use only **Java, Scala, JavaScript/NodeJS, Python or shell scripts**
 
 ## Assignment submission
 
