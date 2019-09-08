@@ -9,7 +9,8 @@ The assignment delivery will be everything within the top directory **assignment
 
 * Your student id should be in the **submitter.csv**.
 * The assignment id and your student id should be in the name of the top directory of the assignment delivery
-*
+* Self-evaluation: do the self-evaluation of your assignment and put the points of your self-evaluation into **selfgrading.csv**
+
 ## Directory structure
 
 * You must make sure that the top directory is named as "assignment_nr_studentid" by replacing "nr" with the assignment number and "studentid" with your student id.
