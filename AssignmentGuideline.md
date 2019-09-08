@@ -1,6 +1,6 @@
 # Assignment guidelines
 
-Last modified: 05.09.2019
+Last modified: 08.09.2019
 >Note: this guideline can be stayed in your submission.
 
 The assignment delivery will be everything within the top directory **assignment_nr_studentid**. We suggest you to use git to work on your assignment delivery by cloning this assignment delivery template.
@@ -26,10 +26,11 @@ The assignment delivery will be everything within the top directory **assignment
 * You must guarantee the data regulation w.r.t. all contents in the assignment delivery
 * Only your student id should be stored in the delivery: the **submitter.csv** should have only a single line which is your student id.
 * Reports have to be written in [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-* No **BINARY format** for any content (code, data, logs, reports), except figures of your design or performance charts. It means, for example, external libraries for your programs should be automatically downloaded when we compile the code (following your README guide), no report is written in Microsoft/open office or PDF.
+* No **BINARY format** for any content (code, data, logs, reports), except *figures of your design or performance charts*. It means, for example, external libraries for your programs should be automatically downloaded when we compile the code (following your README guide), no report is written in Microsoft/open office or PDF.
+* If you make a video demonstrating how your systems/tests work, you can put the video into any accessible link (e.g., private Youtube) and put the link into *demolink.txt*
 
 ## Programming Languages
-You must use only **Java, Scala, Javascript/NodeJS, Python or bash scripts**
+You must use only **Java, Scala, JavaScript/NodeJS, Python or bash scripts**
 
 ## Assignment submission
 
