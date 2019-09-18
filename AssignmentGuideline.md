@@ -3,14 +3,14 @@
 Last modified: 08.09.2019
 >Note: this guideline can be stayed in your submission.
 
-The assignment delivery will be everything within the top directory **assignment_nr_studentid**. We suggest you to use git to work on your assignment delivery by cloning this assignment delivery template.
+The assignment delivery will be everything within the top directory **assignment_nr_studentid**. You **MUST use git** to work on your assignment delivery by cloning this assignment delivery template (it is up to you to decide which git systems you want to use).
 
-## Important identifier
+## Important files
 
 * Your student id should be in the **submitter.csv**.
 * The assignment id and your student id should be in the name of the top directory of the assignment delivery
 * Self-evaluation: do the self-evaluation of your assignment and put the points of your self-evaluation into **selfgrading.csv**
-
+* **assignment-git.log**: the content of this file is the log extracted from your own git project for the assignment. You can use "git log" command to extract the git log
 ## Directory structure
 
 * You must make sure that the top directory is named as "assignment_nr_studentid" by replacing "nr" with the assignment number and "studentid" with your student id.
