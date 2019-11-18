@@ -162,3 +162,1216 @@
 2019-11-18 21:41:40,049 : [INFO] - Received command c on object id p3
 2019-11-18 21:41:40,050 : [INFO] - Received command c on object id p4
 2019-11-18 21:41:40,931 : [INFO] - Received command c on object id p4
+2019-11-18 23:50:31,003 : [INFO] - Starting Spark Streaming Context on Localhost
+2019-11-18 23:50:31,883 : [INFO] - Callback Server Starting
+2019-11-18 23:50:31,883 : [INFO] - Socket listening on ('127.0.0.1', 33503)
+2019-11-18 23:50:31,921 : [INFO] - Spark Streaming Context on localhost started
+2019-11-18 23:50:31,921 : [INFO] - Attempting to connect to Kafka Broker on Topic: mysimbdp on broker: localhost:9092
+2019-11-18 23:50:32,201 : [INFO] - Successfully connected to Kafka Broker on Topic: mysimbdp on broker: localhost:9092
+2019-11-18 23:50:32,216 : [INFO] - Starting analytics!
+2019-11-18 23:50:40,108 : [INFO] - Callback Connection ready to receive messages
+2019-11-18 23:50:40,108 : [INFO] - Received command c on object id p1
+2019-11-18 23:50:40,138 : [INFO] - Received command c on object id p1
+2019-11-18 23:50:40,139 : [INFO] - Received command c on object id p2
+2019-11-18 23:50:40,153 : [INFO] - Received command c on object id p2
+2019-11-18 23:50:40,154 : [INFO] - Received command c on object id p3
+2019-11-18 23:50:40,208 : [INFO] - Received command c on object id p3
+2019-11-18 23:50:40,218 : [INFO] - Received command c on object id p4
+2019-11-18 23:50:42,569 : [INFO] - Received command c on object id p4
+2019-11-18 23:50:42,571 : [INFO] - Received command c on object id p5
+2019-11-18 23:50:42,594 : [INFO] - Received command c on object id p5
+2019-11-18 23:56:50,432 : [INFO] - Starting Spark Streaming Context on Localhost
+2019-11-18 23:56:51,781 : [INFO] - Callback Server Starting
+2019-11-18 23:56:51,781 : [INFO] - Socket listening on ('127.0.0.1', 37341)
+2019-11-18 23:56:51,838 : [INFO] - Spark Streaming Context on localhost started
+2019-11-18 23:56:51,838 : [INFO] - Attempting to connect to Kafka Broker on Topic: mysimbdp on broker: localhost:9092
+2019-11-18 23:56:52,189 : [INFO] - Successfully connected to Kafka Broker on Topic: mysimbdp on broker: localhost:9092
+2019-11-18 23:56:52,207 : [INFO] - Starting analytics!
+2019-11-18 23:57:00,074 : [INFO] - Callback Connection ready to receive messages
+2019-11-18 23:57:00,074 : [INFO] - Received command c on object id p1
+2019-11-18 23:57:00,103 : [INFO] - Received command c on object id p1
+2019-11-18 23:57:00,104 : [INFO] - Received command c on object id p2
+2019-11-18 23:57:00,114 : [INFO] - Received command c on object id p2
+2019-11-18 23:57:00,115 : [INFO] - Received command c on object id p3
+2019-11-18 23:57:00,150 : [INFO] - Received command c on object id p3
+2019-11-18 23:57:00,159 : [INFO] - Received command c on object id p4
+2019-11-18 23:57:02,688 : [INFO] - Received command c on object id p4
+2019-11-18 23:57:02,690 : [INFO] - Received command c on object id p5
+2019-11-18 23:57:02,850 : [INFO] - Received command c on object id p5
+2019-11-18 23:57:10,016 : [INFO] - Received command c on object id p1
+2019-11-18 23:57:10,025 : [INFO] - Received command c on object id p1
+2019-11-18 23:57:10,026 : [INFO] - Received command c on object id p2
+2019-11-18 23:57:10,038 : [INFO] - Received command c on object id p2
+2019-11-18 23:57:10,038 : [INFO] - Received command c on object id p3
+2019-11-18 23:57:10,059 : [INFO] - Received command c on object id p3
+2019-11-18 23:57:10,060 : [INFO] - Received command c on object id p4
+2019-11-18 23:57:11,236 : [INFO] - Received command c on object id p4
+2019-11-18 23:57:11,237 : [INFO] - Received command c on object id p5
+2019-11-18 23:57:11,367 : [INFO] - Received command c on object id p5
+2019-11-18 23:57:20,019 : [INFO] - Received command c on object id p1
+2019-11-18 23:57:20,030 : [INFO] - Received command c on object id p1
+2019-11-18 23:57:20,030 : [INFO] - Received command c on object id p2
+2019-11-18 23:57:20,037 : [INFO] - Received command c on object id p2
+2019-11-18 23:57:20,038 : [INFO] - Received command c on object id p3
+2019-11-18 23:57:20,055 : [INFO] - Received command c on object id p3
+2019-11-18 23:57:20,056 : [INFO] - Received command c on object id p4
+2019-11-18 23:57:21,152 : [INFO] - Received command c on object id p4
+2019-11-18 23:57:21,153 : [INFO] - Received command c on object id p5
+2019-11-18 23:57:21,280 : [INFO] - Received command c on object id p5
+2019-11-18 23:57:30,019 : [INFO] - Received command c on object id p1
+2019-11-18 23:57:30,027 : [INFO] - Received command c on object id p1
+2019-11-18 23:57:30,027 : [INFO] - Received command c on object id p2
+2019-11-18 23:57:30,034 : [INFO] - Received command c on object id p2
+2019-11-18 23:57:30,035 : [INFO] - Received command c on object id p3
+2019-11-18 23:57:30,056 : [INFO] - Received command c on object id p3
+2019-11-18 23:57:30,057 : [INFO] - Received command c on object id p4
+2019-11-18 23:57:31,038 : [INFO] - Received command c on object id p4
+2019-11-18 23:57:31,040 : [INFO] - Received command c on object id p5
+2019-11-18 23:57:31,169 : [INFO] - Received command c on object id p5
+2019-11-18 23:57:40,029 : [INFO] - Received command c on object id p1
+2019-11-18 23:57:40,038 : [INFO] - Received command c on object id p1
+2019-11-18 23:57:40,039 : [INFO] - Received command c on object id p2
+2019-11-18 23:57:40,046 : [INFO] - Received command c on object id p2
+2019-11-18 23:57:40,046 : [INFO] - Received command c on object id p3
+2019-11-18 23:57:40,063 : [INFO] - Received command c on object id p3
+2019-11-18 23:57:40,064 : [INFO] - Received command c on object id p4
+2019-11-18 23:57:41,113 : [INFO] - Received command c on object id p4
+2019-11-18 23:57:41,114 : [INFO] - Received command c on object id p5
+2019-11-18 23:57:41,247 : [INFO] - Received command c on object id p5
+2019-11-18 23:57:50,015 : [INFO] - Received command c on object id p1
+2019-11-18 23:57:50,022 : [INFO] - Received command c on object id p1
+2019-11-18 23:57:50,023 : [INFO] - Received command c on object id p2
+2019-11-18 23:57:50,030 : [INFO] - Received command c on object id p2
+2019-11-18 23:57:50,031 : [INFO] - Received command c on object id p3
+2019-11-18 23:57:50,049 : [INFO] - Received command c on object id p3
+2019-11-18 23:57:50,049 : [INFO] - Received command c on object id p4
+2019-11-18 23:57:50,932 : [INFO] - Received command c on object id p4
+2019-11-18 23:57:50,933 : [INFO] - Received command c on object id p5
+2019-11-18 23:57:51,063 : [INFO] - Received command c on object id p5
+2019-11-18 23:58:00,026 : [INFO] - Received command c on object id p1
+2019-11-18 23:58:00,044 : [INFO] - Received command c on object id p1
+2019-11-18 23:58:00,045 : [INFO] - Received command c on object id p2
+2019-11-18 23:58:00,054 : [INFO] - Received command c on object id p2
+2019-11-18 23:58:00,054 : [INFO] - Received command c on object id p3
+2019-11-18 23:58:00,072 : [INFO] - Received command c on object id p3
+2019-11-18 23:58:00,073 : [INFO] - Received command c on object id p4
+2019-11-18 23:58:00,995 : [INFO] - Received command c on object id p4
+2019-11-18 23:58:00,997 : [INFO] - Received command c on object id p5
+2019-11-18 23:58:01,160 : [INFO] - Received command c on object id p5
+2019-11-18 23:58:10,028 : [INFO] - Received command c on object id p1
+2019-11-18 23:58:10,052 : [INFO] - Received command c on object id p1
+2019-11-18 23:58:10,052 : [INFO] - Received command c on object id p2
+2019-11-18 23:58:10,062 : [INFO] - Received command c on object id p2
+2019-11-18 23:58:10,063 : [INFO] - Received command c on object id p3
+2019-11-18 23:58:10,084 : [INFO] - Received command c on object id p3
+2019-11-18 23:58:10,085 : [INFO] - Received command c on object id p4
+2019-11-18 23:58:11,069 : [INFO] - Received command c on object id p4
+2019-11-18 23:58:11,071 : [INFO] - Received command c on object id p5
+2019-11-18 23:58:11,219 : [INFO] - Received command c on object id p5
+2019-11-18 23:58:20,013 : [INFO] - Received command c on object id p1
+2019-11-18 23:58:20,023 : [INFO] - Received command c on object id p1
+2019-11-18 23:58:20,023 : [INFO] - Received command c on object id p2
+2019-11-18 23:58:20,030 : [INFO] - Received command c on object id p2
+2019-11-18 23:58:20,030 : [INFO] - Received command c on object id p3
+2019-11-18 23:58:20,052 : [INFO] - Received command c on object id p3
+2019-11-18 23:58:20,053 : [INFO] - Received command c on object id p4
+2019-11-18 23:58:20,974 : [INFO] - Received command c on object id p4
+2019-11-18 23:58:20,975 : [INFO] - Received command c on object id p5
+2019-11-18 23:58:21,096 : [INFO] - Received command c on object id p5
+2019-11-18 23:58:30,020 : [INFO] - Received command c on object id p1
+2019-11-18 23:58:30,044 : [INFO] - Received command c on object id p1
+2019-11-18 23:58:30,044 : [INFO] - Received command c on object id p2
+2019-11-18 23:58:30,062 : [INFO] - Received command c on object id p2
+2019-11-18 23:58:30,063 : [INFO] - Received command c on object id p3
+2019-11-18 23:58:30,110 : [INFO] - Received command c on object id p3
+2019-11-18 23:58:30,112 : [INFO] - Received command c on object id p4
+2019-11-18 23:58:31,147 : [INFO] - Received command c on object id p4
+2019-11-18 23:58:31,149 : [INFO] - Received command c on object id p5
+2019-11-18 23:58:31,264 : [INFO] - Received command c on object id p5
+2019-11-18 23:59:32,184 : [INFO] - Starting Spark Streaming Context on Localhost
+2019-11-18 23:59:33,487 : [INFO] - Callback Server Starting
+2019-11-18 23:59:33,488 : [INFO] - Socket listening on ('127.0.0.1', 37331)
+2019-11-18 23:59:33,545 : [INFO] - Spark Streaming Context on localhost started
+2019-11-18 23:59:33,545 : [INFO] - Attempting to connect to Kafka Broker on Topic: mysimbdp on broker: localhost:9092
+2019-11-18 23:59:33,906 : [INFO] - Successfully connected to Kafka Broker on Topic: mysimbdp on broker: localhost:9092
+2019-11-18 23:59:33,923 : [INFO] - Starting analytics!
+2019-11-18 23:59:40,061 : [INFO] - Callback Connection ready to receive messages
+2019-11-18 23:59:40,062 : [INFO] - Received command c on object id p1
+2019-11-18 23:59:40,091 : [INFO] - Received command c on object id p1
+2019-11-18 23:59:40,091 : [INFO] - Received command c on object id p2
+2019-11-18 23:59:40,101 : [INFO] - Received command c on object id p2
+2019-11-18 23:59:40,101 : [INFO] - Received command c on object id p3
+2019-11-18 23:59:40,138 : [INFO] - Received command c on object id p3
+2019-11-18 23:59:40,146 : [INFO] - Received command c on object id p4
+2019-11-18 23:59:42,614 : [INFO] - Received command c on object id p4
+2019-11-18 23:59:42,616 : [INFO] - Received command c on object id p5
+2019-11-18 23:59:42,775 : [INFO] - Received command c on object id p5
+2019-11-18 23:59:50,017 : [INFO] - Received command c on object id p1
+2019-11-18 23:59:50,027 : [INFO] - Received command c on object id p1
+2019-11-18 23:59:50,027 : [INFO] - Received command c on object id p2
+2019-11-18 23:59:50,040 : [INFO] - Received command c on object id p2
+2019-11-18 23:59:50,040 : [INFO] - Received command c on object id p3
+2019-11-18 23:59:50,063 : [INFO] - Received command c on object id p3
+2019-11-18 23:59:50,064 : [INFO] - Received command c on object id p4
+2019-11-18 23:59:51,298 : [INFO] - Received command c on object id p4
+2019-11-18 23:59:51,300 : [INFO] - Received command c on object id p5
+2019-11-18 23:59:51,455 : [INFO] - Received command c on object id p5
+2019-11-19 00:00:10,901 : [INFO] - Starting Spark Streaming Context on Localhost
+2019-11-19 00:00:12,056 : [INFO] - Callback Server Starting
+2019-11-19 00:00:12,057 : [INFO] - Socket listening on ('127.0.0.1', 32873)
+2019-11-19 00:00:12,097 : [INFO] - Spark Streaming Context on localhost started
+2019-11-19 00:00:12,097 : [INFO] - Attempting to connect to Kafka Broker on Topic: mysimbdp on broker: localhost:9092
+2019-11-19 00:00:12,393 : [INFO] - Successfully connected to Kafka Broker on Topic: mysimbdp on broker: localhost:9092
+2019-11-19 00:00:12,410 : [INFO] - Starting analytics!
+2019-11-19 00:00:20,100 : [INFO] - Callback Connection ready to receive messages
+2019-11-19 00:00:20,101 : [INFO] - Received command c on object id p1
+2019-11-19 00:00:20,133 : [INFO] - Received command c on object id p1
+2019-11-19 00:00:20,134 : [INFO] - Received command c on object id p2
+2019-11-19 00:00:20,146 : [INFO] - Received command c on object id p2
+2019-11-19 00:00:20,146 : [INFO] - Received command c on object id p3
+2019-11-19 00:00:20,189 : [INFO] - Received command c on object id p3
+2019-11-19 00:00:20,200 : [INFO] - Received command c on object id p4
+2019-11-19 00:00:22,990 : [INFO] - Received command c on object id p4
+2019-11-19 00:00:22,993 : [INFO] - Received command c on object id p5
+2019-11-19 00:00:23,150 : [INFO] - Received command c on object id p5
+2019-11-19 00:00:30,012 : [INFO] - Received command c on object id p1
+2019-11-19 00:00:30,022 : [INFO] - Received command c on object id p1
+2019-11-19 00:00:30,022 : [INFO] - Received command c on object id p2
+2019-11-19 00:00:30,034 : [INFO] - Received command c on object id p2
+2019-11-19 00:00:30,035 : [INFO] - Received command c on object id p3
+2019-11-19 00:00:30,059 : [INFO] - Received command c on object id p3
+2019-11-19 00:00:30,060 : [INFO] - Received command c on object id p4
+2019-11-19 00:00:31,325 : [INFO] - Received command c on object id p4
+2019-11-19 00:00:31,326 : [INFO] - Received command c on object id p5
+2019-11-19 00:00:31,477 : [INFO] - Received command c on object id p5
+2019-11-19 00:00:40,013 : [INFO] - Received command c on object id p1
+2019-11-19 00:00:40,023 : [INFO] - Received command c on object id p1
+2019-11-19 00:00:40,024 : [INFO] - Received command c on object id p2
+2019-11-19 00:00:40,035 : [INFO] - Received command c on object id p2
+2019-11-19 00:00:40,035 : [INFO] - Received command c on object id p3
+2019-11-19 00:00:40,058 : [INFO] - Received command c on object id p3
+2019-11-19 00:00:40,059 : [INFO] - Received command c on object id p4
+2019-11-19 00:00:41,170 : [INFO] - Received command c on object id p4
+2019-11-19 00:00:41,171 : [INFO] - Received command c on object id p5
+2019-11-19 00:00:41,297 : [INFO] - Received command c on object id p5
+2019-11-19 00:00:50,013 : [INFO] - Received command c on object id p1
+2019-11-19 00:00:50,022 : [INFO] - Received command c on object id p1
+2019-11-19 00:00:50,023 : [INFO] - Received command c on object id p2
+2019-11-19 00:00:50,030 : [INFO] - Received command c on object id p2
+2019-11-19 00:00:50,030 : [INFO] - Received command c on object id p3
+2019-11-19 00:00:50,054 : [INFO] - Received command c on object id p3
+2019-11-19 00:00:50,055 : [INFO] - Received command c on object id p4
+2019-11-19 00:00:50,906 : [INFO] - Received command c on object id p4
+2019-11-19 00:00:50,909 : [INFO] - Received command c on object id p5
+2019-11-19 00:00:51,114 : [INFO] - Received command c on object id p5
+2019-11-19 00:01:00,013 : [INFO] - Received command c on object id p1
+2019-11-19 00:01:00,020 : [INFO] - Received command c on object id p1
+2019-11-19 00:01:00,020 : [INFO] - Received command c on object id p2
+2019-11-19 00:01:00,030 : [INFO] - Received command c on object id p2
+2019-11-19 00:01:00,030 : [INFO] - Received command c on object id p3
+2019-11-19 00:01:00,051 : [INFO] - Received command c on object id p3
+2019-11-19 00:01:00,052 : [INFO] - Received command c on object id p4
+2019-11-19 00:01:01,100 : [INFO] - Received command c on object id p4
+2019-11-19 00:01:01,101 : [INFO] - Received command c on object id p5
+2019-11-19 00:01:01,251 : [INFO] - Received command c on object id p5
+2019-11-19 00:01:10,025 : [INFO] - Received command c on object id p1
+2019-11-19 00:01:10,063 : [INFO] - Received command c on object id p1
+2019-11-19 00:01:10,064 : [INFO] - Received command c on object id p2
+2019-11-19 00:01:10,090 : [INFO] - Received command c on object id p2
+2019-11-19 00:01:10,091 : [INFO] - Received command c on object id p3
+2019-11-19 00:01:10,150 : [INFO] - Received command c on object id p3
+2019-11-19 00:01:10,151 : [INFO] - Received command c on object id p4
+2019-11-19 00:01:11,128 : [INFO] - Received command c on object id p4
+2019-11-19 00:01:11,129 : [INFO] - Received command c on object id p5
+2019-11-19 00:01:11,248 : [INFO] - Received command c on object id p5
+2019-11-19 00:01:20,024 : [INFO] - Received command c on object id p1
+2019-11-19 00:01:20,039 : [INFO] - Received command c on object id p1
+2019-11-19 00:01:20,040 : [INFO] - Received command c on object id p2
+2019-11-19 00:01:20,054 : [INFO] - Received command c on object id p2
+2019-11-19 00:01:20,054 : [INFO] - Received command c on object id p3
+2019-11-19 00:01:20,088 : [INFO] - Received command c on object id p3
+2019-11-19 00:01:20,089 : [INFO] - Received command c on object id p4
+2019-11-19 00:01:21,019 : [INFO] - Received command c on object id p4
+2019-11-19 00:01:21,022 : [INFO] - Received command c on object id p5
+2019-11-19 00:01:21,217 : [INFO] - Received command c on object id p5
+2019-11-19 00:01:30,017 : [INFO] - Received command c on object id p1
+2019-11-19 00:01:30,044 : [INFO] - Received command c on object id p1
+2019-11-19 00:01:30,045 : [INFO] - Received command c on object id p2
+2019-11-19 00:01:30,070 : [INFO] - Received command c on object id p2
+2019-11-19 00:01:30,071 : [INFO] - Received command c on object id p3
+2019-11-19 00:01:30,128 : [INFO] - Received command c on object id p3
+2019-11-19 00:01:30,130 : [INFO] - Received command c on object id p4
+2019-11-19 00:01:31,111 : [INFO] - Received command c on object id p4
+2019-11-19 00:01:31,113 : [INFO] - Received command c on object id p5
+2019-11-19 00:01:31,236 : [INFO] - Received command c on object id p5
+2019-11-19 00:01:40,012 : [INFO] - Received command c on object id p1
+2019-11-19 00:01:40,021 : [INFO] - Received command c on object id p1
+2019-11-19 00:01:40,021 : [INFO] - Received command c on object id p2
+2019-11-19 00:01:40,028 : [INFO] - Received command c on object id p2
+2019-11-19 00:01:40,028 : [INFO] - Received command c on object id p3
+2019-11-19 00:01:40,049 : [INFO] - Received command c on object id p3
+2019-11-19 00:01:40,050 : [INFO] - Received command c on object id p4
+2019-11-19 00:01:41,038 : [INFO] - Received command c on object id p4
+2019-11-19 00:01:41,039 : [INFO] - Received command c on object id p5
+2019-11-19 00:01:41,148 : [INFO] - Received command c on object id p5
+2019-11-19 00:01:50,018 : [INFO] - Received command c on object id p1
+2019-11-19 00:01:50,050 : [INFO] - Received command c on object id p1
+2019-11-19 00:01:50,051 : [INFO] - Received command c on object id p2
+2019-11-19 00:01:50,074 : [INFO] - Received command c on object id p2
+2019-11-19 00:01:50,074 : [INFO] - Received command c on object id p3
+2019-11-19 00:01:50,103 : [INFO] - Received command c on object id p3
+2019-11-19 00:01:50,104 : [INFO] - Received command c on object id p4
+2019-11-19 00:01:50,927 : [INFO] - Received command c on object id p4
+2019-11-19 00:01:50,929 : [INFO] - Received command c on object id p5
+2019-11-19 00:01:51,083 : [INFO] - Received command c on object id p5
+2019-11-19 00:02:00,013 : [INFO] - Received command c on object id p1
+2019-11-19 00:02:00,021 : [INFO] - Received command c on object id p1
+2019-11-19 00:02:00,021 : [INFO] - Received command c on object id p2
+2019-11-19 00:02:00,029 : [INFO] - Received command c on object id p2
+2019-11-19 00:02:00,030 : [INFO] - Received command c on object id p3
+2019-11-19 00:02:00,047 : [INFO] - Received command c on object id p3
+2019-11-19 00:02:00,048 : [INFO] - Received command c on object id p4
+2019-11-19 00:10:45,296 : [INFO] - Starting Spark Streaming Context on Localhost
+2019-11-19 00:10:46,447 : [INFO] - Callback Server Starting
+2019-11-19 00:10:46,447 : [INFO] - Socket listening on ('127.0.0.1', 36537)
+2019-11-19 00:10:46,499 : [INFO] - Spark Streaming Context on localhost started
+2019-11-19 00:10:46,499 : [INFO] - Attempting to connect to Kafka Broker on Topic: mysimbdp on broker: localhost:9092
+2019-11-19 00:10:46,849 : [INFO] - Successfully connected to Kafka Broker on Topic: mysimbdp on broker: localhost:9092
+2019-11-19 00:10:46,863 : [INFO] - Starting analytics!
+2019-11-19 00:10:50,068 : [INFO] - Callback Connection ready to receive messages
+2019-11-19 00:10:50,068 : [INFO] - Received command c on object id p1
+2019-11-19 00:10:50,094 : [INFO] - Received command c on object id p1
+2019-11-19 00:10:50,094 : [INFO] - Received command c on object id p2
+2019-11-19 00:10:50,104 : [INFO] - Received command c on object id p2
+2019-11-19 00:10:50,104 : [INFO] - Received command c on object id p3
+2019-11-19 00:10:50,146 : [INFO] - Received command c on object id p3
+2019-11-19 00:10:50,156 : [INFO] - Received command c on object id p4
+2019-11-19 00:10:51,352 : [INFO] - Received command c on object id p4
+2019-11-19 00:12:04,134 : [INFO] - Starting Spark Streaming Context on Localhost
+2019-11-19 00:12:05,265 : [INFO] - Callback Server Starting
+2019-11-19 00:12:05,265 : [INFO] - Socket listening on ('127.0.0.1', 35343)
+2019-11-19 00:12:05,313 : [INFO] - Spark Streaming Context on localhost started
+2019-11-19 00:12:05,313 : [INFO] - Attempting to connect to Kafka Broker on Topic: mysimbdp on broker: localhost:9092
+2019-11-19 00:12:05,637 : [INFO] - Successfully connected to Kafka Broker on Topic: mysimbdp on broker: localhost:9092
+2019-11-19 00:12:05,651 : [INFO] - Starting analytics!
+2019-11-19 00:12:10,069 : [INFO] - Callback Connection ready to receive messages
+2019-11-19 00:12:10,069 : [INFO] - Received command c on object id p1
+2019-11-19 00:12:10,098 : [INFO] - Received command c on object id p1
+2019-11-19 00:12:10,099 : [INFO] - Received command c on object id p2
+2019-11-19 00:12:10,108 : [INFO] - Received command c on object id p2
+2019-11-19 00:12:10,109 : [INFO] - Received command c on object id p3
+2019-11-19 00:12:10,147 : [INFO] - Received command c on object id p3
+2019-11-19 00:12:10,156 : [INFO] - Received command c on object id p4
+2019-11-19 00:12:11,254 : [INFO] - Received command c on object id p4
+2019-11-19 00:13:50,578 : [INFO] - Starting Spark Streaming Context on Localhost
+2019-11-19 00:13:51,752 : [INFO] - Callback Server Starting
+2019-11-19 00:13:51,752 : [INFO] - Socket listening on ('127.0.0.1', 43967)
+2019-11-19 00:13:51,804 : [INFO] - Spark Streaming Context on localhost started
+2019-11-19 00:13:51,804 : [INFO] - Attempting to connect to Kafka Broker on Topic: mysimbdp on broker: localhost:9092
+2019-11-19 00:13:52,165 : [INFO] - Successfully connected to Kafka Broker on Topic: mysimbdp on broker: localhost:9092
+2019-11-19 00:13:52,178 : [INFO] - Starting analytics!
+2019-11-19 00:14:00,065 : [INFO] - Callback Connection ready to receive messages
+2019-11-19 00:14:00,066 : [INFO] - Received command c on object id p1
+2019-11-19 00:14:00,090 : [INFO] - Received command c on object id p1
+2019-11-19 00:14:00,091 : [INFO] - Received command c on object id p2
+2019-11-19 00:14:00,099 : [INFO] - Received command c on object id p2
+2019-11-19 00:14:00,099 : [INFO] - Received command c on object id p3
+2019-11-19 00:14:00,135 : [INFO] - Received command c on object id p3
+2019-11-19 00:14:00,143 : [INFO] - Received command c on object id p4
+2019-11-19 00:14:01,171 : [INFO] - Received command c on object id p4
+2019-11-19 00:14:33,837 : [INFO] - Starting Spark Streaming Context on Localhost
+2019-11-19 00:14:34,976 : [INFO] - Callback Server Starting
+2019-11-19 00:14:34,977 : [INFO] - Socket listening on ('127.0.0.1', 42973)
+2019-11-19 00:14:35,031 : [INFO] - Spark Streaming Context on localhost started
+2019-11-19 00:14:35,031 : [INFO] - Attempting to connect to Kafka Broker on Topic: mysimbdp on broker: localhost:9092
+2019-11-19 00:14:35,374 : [INFO] - Successfully connected to Kafka Broker on Topic: mysimbdp on broker: localhost:9092
+2019-11-19 00:14:35,391 : [INFO] - Starting analytics!
+2019-11-19 00:14:40,061 : [INFO] - Callback Connection ready to receive messages
+2019-11-19 00:14:40,061 : [INFO] - Received command c on object id p1
+2019-11-19 00:14:40,090 : [INFO] - Received command c on object id p1
+2019-11-19 00:14:40,091 : [INFO] - Received command c on object id p2
+2019-11-19 00:14:40,102 : [INFO] - Received command c on object id p2
+2019-11-19 00:14:40,102 : [INFO] - Received command c on object id p3
+2019-11-19 00:14:40,144 : [INFO] - Received command c on object id p3
+2019-11-19 00:14:40,153 : [INFO] - Received command c on object id p4
+2019-11-19 00:14:41,241 : [INFO] - Received command c on object id p4
+2019-11-19 00:15:32,858 : [INFO] - Starting Spark Streaming Context on Localhost
+2019-11-19 00:15:33,937 : [INFO] - Callback Server Starting
+2019-11-19 00:15:33,937 : [INFO] - Socket listening on ('127.0.0.1', 33135)
+2019-11-19 00:15:33,976 : [INFO] - Spark Streaming Context on localhost started
+2019-11-19 00:15:33,977 : [INFO] - Attempting to connect to Kafka Broker on Topic: mysimbdp on broker: localhost:9092
+2019-11-19 00:15:34,251 : [INFO] - Successfully connected to Kafka Broker on Topic: mysimbdp on broker: localhost:9092
+2019-11-19 00:15:34,264 : [INFO] - Starting analytics!
+2019-11-19 00:15:40,074 : [INFO] - Callback Connection ready to receive messages
+2019-11-19 00:15:40,074 : [INFO] - Received command c on object id p1
+2019-11-19 00:15:40,106 : [INFO] - Received command c on object id p1
+2019-11-19 00:15:40,107 : [INFO] - Received command c on object id p2
+2019-11-19 00:15:40,117 : [INFO] - Received command c on object id p2
+2019-11-19 00:15:40,118 : [INFO] - Received command c on object id p3
+2019-11-19 00:15:40,157 : [INFO] - Received command c on object id p3
+2019-11-19 00:15:40,167 : [INFO] - Received command c on object id p4
+2019-11-19 00:15:41,376 : [INFO] - Received command c on object id p4
+2019-11-19 00:16:25,078 : [INFO] - Starting Spark Streaming Context on Localhost
+2019-11-19 00:16:26,216 : [INFO] - Callback Server Starting
+2019-11-19 00:16:26,216 : [INFO] - Socket listening on ('127.0.0.1', 37073)
+2019-11-19 00:16:26,275 : [INFO] - Spark Streaming Context on localhost started
+2019-11-19 00:16:26,275 : [INFO] - Attempting to connect to Kafka Broker on Topic: mysimbdp on broker: localhost:9092
+2019-11-19 00:16:26,633 : [INFO] - Successfully connected to Kafka Broker on Topic: mysimbdp on broker: localhost:9092
+2019-11-19 00:16:26,646 : [INFO] - Starting analytics!
+2019-11-19 00:16:30,060 : [INFO] - Callback Connection ready to receive messages
+2019-11-19 00:16:30,060 : [INFO] - Received command c on object id p1
+2019-11-19 00:16:30,086 : [INFO] - Received command c on object id p1
+2019-11-19 00:16:30,087 : [INFO] - Received command c on object id p2
+2019-11-19 00:16:30,096 : [INFO] - Received command c on object id p2
+2019-11-19 00:16:30,096 : [INFO] - Received command c on object id p3
+2019-11-19 00:16:30,133 : [INFO] - Received command c on object id p3
+2019-11-19 00:16:30,142 : [INFO] - Received command c on object id p4
+2019-11-19 00:16:31,121 : [INFO] - Received command c on object id p4
+2019-11-19 00:17:11,372 : [INFO] - Starting Spark Streaming Context on Localhost
+2019-11-19 00:17:12,471 : [INFO] - Callback Server Starting
+2019-11-19 00:17:12,471 : [INFO] - Socket listening on ('127.0.0.1', 33081)
+2019-11-19 00:17:12,517 : [INFO] - Spark Streaming Context on localhost started
+2019-11-19 00:17:12,517 : [INFO] - Attempting to connect to Kafka Broker on Topic: mysimbdp on broker: localhost:9092
+2019-11-19 00:17:12,863 : [INFO] - Successfully connected to Kafka Broker on Topic: mysimbdp on broker: localhost:9092
+2019-11-19 00:17:12,875 : [INFO] - Starting analytics!
+2019-11-19 00:17:20,059 : [INFO] - Callback Connection ready to receive messages
+2019-11-19 00:17:20,060 : [INFO] - Received command c on object id p1
+2019-11-19 00:17:20,088 : [INFO] - Received command c on object id p1
+2019-11-19 00:17:20,089 : [INFO] - Received command c on object id p2
+2019-11-19 00:17:20,100 : [INFO] - Received command c on object id p2
+2019-11-19 00:17:20,100 : [INFO] - Received command c on object id p3
+2019-11-19 00:17:20,136 : [INFO] - Received command c on object id p3
+2019-11-19 00:17:20,145 : [INFO] - Received command c on object id p4
+2019-11-19 00:17:21,291 : [INFO] - Received command c on object id p4
+2019-11-19 00:17:43,639 : [INFO] - Starting Spark Streaming Context on Localhost
+2019-11-19 00:17:44,745 : [INFO] - Callback Server Starting
+2019-11-19 00:17:44,745 : [INFO] - Socket listening on ('127.0.0.1', 37751)
+2019-11-19 00:17:44,800 : [INFO] - Spark Streaming Context on localhost started
+2019-11-19 00:17:44,800 : [INFO] - Attempting to connect to Kafka Broker on Topic: mysimbdp on broker: localhost:9092
+2019-11-19 00:17:45,124 : [INFO] - Successfully connected to Kafka Broker on Topic: mysimbdp on broker: localhost:9092
+2019-11-19 00:17:45,136 : [INFO] - Starting analytics!
+2019-11-19 00:17:50,063 : [INFO] - Callback Connection ready to receive messages
+2019-11-19 00:17:50,064 : [INFO] - Received command c on object id p1
+2019-11-19 00:17:50,086 : [INFO] - Received command c on object id p1
+2019-11-19 00:17:50,087 : [INFO] - Received command c on object id p2
+2019-11-19 00:17:50,095 : [INFO] - Received command c on object id p2
+2019-11-19 00:17:50,095 : [INFO] - Received command c on object id p3
+2019-11-19 00:17:50,129 : [INFO] - Received command c on object id p3
+2019-11-19 00:17:50,140 : [INFO] - Received command c on object id p4
+2019-11-19 00:17:51,264 : [INFO] - Received command c on object id p4
+2019-11-19 00:19:13,106 : [INFO] - Starting Spark Streaming Context on Localhost
+2019-11-19 00:19:14,156 : [INFO] - Callback Server Starting
+2019-11-19 00:19:14,156 : [INFO] - Socket listening on ('127.0.0.1', 34803)
+2019-11-19 00:19:14,204 : [INFO] - Spark Streaming Context on localhost started
+2019-11-19 00:19:14,204 : [INFO] - Attempting to connect to Kafka Broker on Topic: mysimbdp on broker: localhost:9092
+2019-11-19 00:19:14,545 : [INFO] - Successfully connected to Kafka Broker on Topic: mysimbdp on broker: localhost:9092
+2019-11-19 00:19:14,558 : [INFO] - Starting analytics!
+2019-11-19 00:19:20,059 : [INFO] - Callback Connection ready to receive messages
+2019-11-19 00:19:20,059 : [INFO] - Received command c on object id p1
+2019-11-19 00:19:20,085 : [INFO] - Received command c on object id p1
+2019-11-19 00:19:20,086 : [INFO] - Received command c on object id p2
+2019-11-19 00:19:20,097 : [INFO] - Received command c on object id p2
+2019-11-19 00:19:20,097 : [INFO] - Received command c on object id p3
+2019-11-19 00:19:20,133 : [INFO] - Received command c on object id p3
+2019-11-19 00:19:20,142 : [INFO] - Received command c on object id p4
+2019-11-19 00:19:20,143 : [INFO] - Received command c on object id p4
+2019-11-19 00:19:30,014 : [INFO] - Received command c on object id p1
+2019-11-19 00:19:30,025 : [INFO] - Received command c on object id p1
+2019-11-19 00:19:30,026 : [INFO] - Received command c on object id p2
+2019-11-19 00:19:30,038 : [INFO] - Received command c on object id p2
+2019-11-19 00:19:30,038 : [INFO] - Received command c on object id p3
+2019-11-19 00:19:30,067 : [INFO] - Received command c on object id p3
+2019-11-19 00:19:30,069 : [INFO] - Received command c on object id p4
+2019-11-19 00:19:30,071 : [INFO] - Received command c on object id p4
+2019-11-19 00:19:40,014 : [INFO] - Received command c on object id p1
+2019-11-19 00:19:40,023 : [INFO] - Received command c on object id p1
+2019-11-19 00:19:40,023 : [INFO] - Received command c on object id p2
+2019-11-19 00:19:40,031 : [INFO] - Received command c on object id p2
+2019-11-19 00:19:40,032 : [INFO] - Received command c on object id p3
+2019-11-19 00:19:40,055 : [INFO] - Received command c on object id p3
+2019-11-19 00:19:40,056 : [INFO] - Received command c on object id p4
+2019-11-19 00:19:40,057 : [INFO] - Received command c on object id p4
+2019-11-19 00:19:50,011 : [INFO] - Received command c on object id p1
+2019-11-19 00:19:50,029 : [INFO] - Received command c on object id p1
+2019-11-19 00:19:50,030 : [INFO] - Received command c on object id p2
+2019-11-19 00:19:50,038 : [INFO] - Received command c on object id p2
+2019-11-19 00:19:50,038 : [INFO] - Received command c on object id p3
+2019-11-19 00:19:50,058 : [INFO] - Received command c on object id p3
+2019-11-19 00:19:50,059 : [INFO] - Received command c on object id p4
+2019-11-19 00:19:50,061 : [INFO] - Received command c on object id p4
+2019-11-19 00:20:00,010 : [INFO] - Received command c on object id p1
+2019-11-19 00:20:00,020 : [INFO] - Received command c on object id p1
+2019-11-19 00:20:00,020 : [INFO] - Received command c on object id p2
+2019-11-19 00:20:00,028 : [INFO] - Received command c on object id p2
+2019-11-19 00:20:00,029 : [INFO] - Received command c on object id p3
+2019-11-19 00:20:00,053 : [INFO] - Received command c on object id p3
+2019-11-19 00:20:00,054 : [INFO] - Received command c on object id p4
+2019-11-19 00:20:00,055 : [INFO] - Received command c on object id p4
+2019-11-19 00:21:10,798 : [INFO] - Starting Spark Streaming Context on Localhost
+2019-11-19 00:21:11,977 : [INFO] - Callback Server Starting
+2019-11-19 00:21:11,977 : [INFO] - Socket listening on ('127.0.0.1', 34573)
+2019-11-19 00:21:12,014 : [INFO] - Spark Streaming Context on localhost started
+2019-11-19 00:21:12,014 : [INFO] - Attempting to connect to Kafka Broker on Topic: mysimbdp on broker: localhost:9092
+2019-11-19 00:21:12,352 : [INFO] - Successfully connected to Kafka Broker on Topic: mysimbdp on broker: localhost:9092
+2019-11-19 00:21:12,366 : [INFO] - Starting analytics!
+2019-11-19 00:21:20,073 : [INFO] - Callback Connection ready to receive messages
+2019-11-19 00:21:20,073 : [INFO] - Received command c on object id p1
+2019-11-19 00:21:20,102 : [INFO] - Received command c on object id p1
+2019-11-19 00:21:20,103 : [INFO] - Received command c on object id p2
+2019-11-19 00:21:20,114 : [INFO] - Received command c on object id p2
+2019-11-19 00:21:20,114 : [INFO] - Received command c on object id p3
+2019-11-19 00:21:20,155 : [INFO] - Received command c on object id p3
+2019-11-19 00:21:20,166 : [INFO] - Received command c on object id p4
+2019-11-19 00:21:20,169 : [INFO] - Bootstrapping cluster metadata from [('localhost', 9092, <AddressFamily.AF_UNSPEC: 0>)]
+2019-11-19 00:21:20,170 : [INFO] - <BrokerConnection node_id=bootstrap host=localhost/127.0.0.1 port=9092>: connecting to 127.0.0.1:9092
+2019-11-19 00:21:20,171 : [INFO] - Bootstrap succeeded: found 1 brokers and 4 topics.
+2019-11-19 00:21:20,172 : [INFO] - <BrokerConnection node_id=bootstrap host=localhost/127.0.0.1 port=9092>: Closing connection. 
+2019-11-19 00:21:20,172 : [INFO] - <BrokerConnection node_id=0 host=rohit-X406UAR/127.0.1.1 port=9092>: connecting to 127.0.1.1:9092
+2019-11-19 00:21:20,274 : [INFO] - Broker version identifed as 0.10.0
+2019-11-19 00:21:20,274 : [INFO] - Set configuration api_version=(0, 10, 0) to skip auto check_version requests on startup
+2019-11-19 00:21:20,275 : [INFO] - Closing the Kafka producer with 0 secs timeout.
+2019-11-19 00:21:20,276 : [INFO] - Proceeding to force close the producer since pending requests could not be completed within timeout 0.
+2019-11-19 00:21:20,276 : [INFO] - <BrokerConnection node_id=0 host=rohit-X406UAR/127.0.1.1 port=9092>: Closing connection. 
+2019-11-19 00:21:20,277 : [INFO] - Received command c on object id p4
+2019-11-19 00:22:35,871 : [INFO] - Starting Spark Streaming Context on Localhost
+2019-11-19 00:22:36,961 : [INFO] - Callback Server Starting
+2019-11-19 00:22:36,961 : [INFO] - Socket listening on ('127.0.0.1', 45267)
+2019-11-19 00:22:37,012 : [INFO] - Spark Streaming Context on localhost started
+2019-11-19 00:22:37,012 : [INFO] - Attempting to connect to Kafka Broker on Topic: mysimbdp on broker: localhost:9092
+2019-11-19 00:22:37,371 : [INFO] - Successfully connected to Kafka Broker on Topic: mysimbdp on broker: localhost:9092
+2019-11-19 00:22:37,385 : [INFO] - Starting analytics!
+2019-11-19 00:22:40,065 : [INFO] - Callback Connection ready to receive messages
+2019-11-19 00:22:40,066 : [INFO] - Received command c on object id p1
+2019-11-19 00:22:40,094 : [INFO] - Received command c on object id p1
+2019-11-19 00:22:40,094 : [INFO] - Received command c on object id p2
+2019-11-19 00:22:40,105 : [INFO] - Received command c on object id p2
+2019-11-19 00:22:40,106 : [INFO] - Received command c on object id p3
+2019-11-19 00:22:40,142 : [INFO] - Received command c on object id p3
+2019-11-19 00:22:40,151 : [INFO] - Received command c on object id p4
+2019-11-19 00:22:40,153 : [INFO] - Bootstrapping cluster metadata from [('localhost', 9092, <AddressFamily.AF_UNSPEC: 0>)]
+2019-11-19 00:22:40,154 : [INFO] - <BrokerConnection node_id=bootstrap host=localhost/127.0.0.1 port=9092>: connecting to 127.0.0.1:9092
+2019-11-19 00:22:40,155 : [INFO] - Bootstrap succeeded: found 1 brokers and 4 topics.
+2019-11-19 00:22:40,155 : [INFO] - <BrokerConnection node_id=bootstrap host=localhost/127.0.0.1 port=9092>: Closing connection. 
+2019-11-19 00:22:40,156 : [INFO] - <BrokerConnection node_id=0 host=rohit-X406UAR/127.0.1.1 port=9092>: connecting to 127.0.1.1:9092
+2019-11-19 00:22:40,261 : [INFO] - Broker version identifed as 0.10.0
+2019-11-19 00:22:40,262 : [INFO] - Set configuration api_version=(0, 10, 0) to skip auto check_version requests on startup
+2019-11-19 00:22:41,420 : [INFO] - Closing the Kafka producer with 0 secs timeout.
+2019-11-19 00:22:41,420 : [INFO] - Proceeding to force close the producer since pending requests could not be completed within timeout 0.
+2019-11-19 00:22:41,421 : [INFO] - <BrokerConnection node_id=0 host=rohit-X406UAR/127.0.1.1 port=9092>: Closing connection. 
+2019-11-19 00:22:41,422 : [INFO] - Received command c on object id p4
+2019-11-19 00:23:13,759 : [INFO] - Starting Spark Streaming Context on Localhost
+2019-11-19 00:23:14,851 : [INFO] - Callback Server Starting
+2019-11-19 00:23:14,851 : [INFO] - Socket listening on ('127.0.0.1', 34243)
+2019-11-19 00:23:14,904 : [INFO] - Spark Streaming Context on localhost started
+2019-11-19 00:23:14,904 : [INFO] - Attempting to connect to Kafka Broker on Topic: mysimbdp on broker: localhost:9092
+2019-11-19 00:23:15,254 : [INFO] - Successfully connected to Kafka Broker on Topic: mysimbdp on broker: localhost:9092
+2019-11-19 00:23:15,267 : [INFO] - Starting analytics!
+2019-11-19 00:23:30,317 : [INFO] - Starting Spark Streaming Context on Localhost
+2019-11-19 00:23:31,389 : [INFO] - Callback Server Starting
+2019-11-19 00:23:31,389 : [INFO] - Socket listening on ('127.0.0.1', 36647)
+2019-11-19 00:23:31,436 : [INFO] - Spark Streaming Context on localhost started
+2019-11-19 00:23:31,436 : [INFO] - Attempting to connect to Kafka Broker on Topic: mysimbdp on broker: localhost:9092
+2019-11-19 00:23:31,761 : [INFO] - Successfully connected to Kafka Broker on Topic: mysimbdp on broker: localhost:9092
+2019-11-19 00:23:31,774 : [INFO] - Starting analytics!
+2019-11-19 00:23:40,063 : [INFO] - Callback Connection ready to receive messages
+2019-11-19 00:23:40,064 : [INFO] - Received command c on object id p1
+2019-11-19 00:23:40,092 : [INFO] - Received command c on object id p1
+2019-11-19 00:23:40,093 : [INFO] - Received command c on object id p2
+2019-11-19 00:23:40,102 : [INFO] - Received command c on object id p2
+2019-11-19 00:23:40,102 : [INFO] - Received command c on object id p3
+2019-11-19 00:23:40,140 : [INFO] - Received command c on object id p3
+2019-11-19 00:23:40,149 : [INFO] - Received command c on object id p4
+2019-11-19 00:23:40,152 : [INFO] - Bootstrapping cluster metadata from [('localhost', 9092, <AddressFamily.AF_UNSPEC: 0>)]
+2019-11-19 00:23:40,152 : [INFO] - <BrokerConnection node_id=bootstrap host=localhost/127.0.0.1 port=9092>: connecting to 127.0.0.1:9092
+2019-11-19 00:23:40,154 : [INFO] - Bootstrap succeeded: found 1 brokers and 4 topics.
+2019-11-19 00:23:40,154 : [INFO] - <BrokerConnection node_id=bootstrap host=localhost/127.0.0.1 port=9092>: Closing connection. 
+2019-11-19 00:23:40,154 : [INFO] - <BrokerConnection node_id=0 host=rohit-X406UAR/127.0.1.1 port=9092>: connecting to 127.0.1.1:9092
+2019-11-19 00:23:40,260 : [INFO] - Broker version identifed as 0.10.0
+2019-11-19 00:23:40,260 : [INFO] - Set configuration api_version=(0, 10, 0) to skip auto check_version requests on startup
+2019-11-19 00:23:40,270 : [INFO] - Closing the Kafka producer with 0 secs timeout.
+2019-11-19 00:23:40,270 : [INFO] - Proceeding to force close the producer since pending requests could not be completed within timeout 0.
+2019-11-19 00:23:40,271 : [INFO] - <BrokerConnection node_id=0 host=rohit-X406UAR/127.0.1.1 port=9092>: Closing connection. 
+2019-11-19 00:23:40,273 : [INFO] - Received command c on object id p4
+2019-11-19 00:24:52,731 : [INFO] - Starting Spark Streaming Context on Localhost
+2019-11-19 00:24:53,937 : [INFO] - Callback Server Starting
+2019-11-19 00:24:53,937 : [INFO] - Socket listening on ('127.0.0.1', 35363)
+2019-11-19 00:24:53,980 : [INFO] - Spark Streaming Context on localhost started
+2019-11-19 00:24:53,980 : [INFO] - Attempting to connect to Kafka Broker on Topic: mysimbdp on broker: localhost:9092
+2019-11-19 00:24:54,322 : [INFO] - Successfully connected to Kafka Broker on Topic: mysimbdp on broker: localhost:9092
+2019-11-19 00:24:54,335 : [INFO] - Starting analytics!
+2019-11-19 00:25:00,064 : [INFO] - Callback Connection ready to receive messages
+2019-11-19 00:25:00,065 : [INFO] - Received command c on object id p1
+2019-11-19 00:25:00,093 : [INFO] - Received command c on object id p1
+2019-11-19 00:25:00,094 : [INFO] - Received command c on object id p2
+2019-11-19 00:25:00,103 : [INFO] - Received command c on object id p2
+2019-11-19 00:25:00,104 : [INFO] - Received command c on object id p3
+2019-11-19 00:25:00,143 : [INFO] - Received command c on object id p3
+2019-11-19 00:25:00,151 : [INFO] - Received command c on object id p4
+2019-11-19 00:25:00,154 : [INFO] - Bootstrapping cluster metadata from [('localhost', 9092, <AddressFamily.AF_UNSPEC: 0>)]
+2019-11-19 00:25:00,154 : [INFO] - <BrokerConnection node_id=bootstrap host=localhost/127.0.0.1 port=9092>: connecting to 127.0.0.1:9092
+2019-11-19 00:25:00,156 : [INFO] - Bootstrap succeeded: found 1 brokers and 4 topics.
+2019-11-19 00:25:00,156 : [INFO] - <BrokerConnection node_id=bootstrap host=localhost/127.0.0.1 port=9092>: Closing connection. 
+2019-11-19 00:25:00,156 : [INFO] - <BrokerConnection node_id=0 host=rohit-X406UAR/127.0.1.1 port=9092>: connecting to 127.0.1.1:9092
+2019-11-19 00:25:00,261 : [INFO] - Broker version identifed as 0.10.0
+2019-11-19 00:25:00,261 : [INFO] - Set configuration api_version=(0, 10, 0) to skip auto check_version requests on startup
+2019-11-19 00:25:00,271 : [INFO] - Closing the Kafka producer with 0 secs timeout.
+2019-11-19 00:25:00,271 : [INFO] - Proceeding to force close the producer since pending requests could not be completed within timeout 0.
+2019-11-19 00:25:00,272 : [INFO] - <BrokerConnection node_id=0 host=rohit-X406UAR/127.0.1.1 port=9092>: Closing connection. 
+2019-11-19 00:25:00,274 : [INFO] - Received command c on object id p4
+2019-11-19 00:25:10,013 : [INFO] - Received command c on object id p1
+2019-11-19 00:25:10,022 : [INFO] - Received command c on object id p1
+2019-11-19 00:25:10,023 : [INFO] - Received command c on object id p2
+2019-11-19 00:25:10,032 : [INFO] - Received command c on object id p2
+2019-11-19 00:25:10,032 : [INFO] - Received command c on object id p3
+2019-11-19 00:25:10,057 : [INFO] - Received command c on object id p3
+2019-11-19 00:25:10,058 : [INFO] - Received command c on object id p4
+2019-11-19 00:25:10,061 : [INFO] - Bootstrapping cluster metadata from [('localhost', 9092, <AddressFamily.AF_UNSPEC: 0>)]
+2019-11-19 00:25:10,062 : [INFO] - <BrokerConnection node_id=bootstrap host=localhost/127.0.0.1 port=9092>: connecting to 127.0.0.1:9092
+2019-11-19 00:25:10,063 : [INFO] - Bootstrap succeeded: found 1 brokers and 4 topics.
+2019-11-19 00:25:10,063 : [INFO] - <BrokerConnection node_id=bootstrap host=localhost/127.0.0.1 port=9092>: Closing connection. 
+2019-11-19 00:25:10,064 : [INFO] - <BrokerConnection node_id=0 host=rohit-X406UAR/127.0.1.1 port=9092>: connecting to 127.0.1.1:9092
+2019-11-19 00:25:10,169 : [INFO] - Broker version identifed as 0.10.0
+2019-11-19 00:25:10,169 : [INFO] - Set configuration api_version=(0, 10, 0) to skip auto check_version requests on startup
+2019-11-19 00:25:10,198 : [INFO] - Closing the Kafka producer with 0 secs timeout.
+2019-11-19 00:25:10,198 : [INFO] - Proceeding to force close the producer since pending requests could not be completed within timeout 0.
+2019-11-19 00:25:10,199 : [INFO] - <BrokerConnection node_id=0 host=rohit-X406UAR/127.0.1.1 port=9092>: Closing connection. 
+2019-11-19 00:25:10,200 : [INFO] - Received command c on object id p4
+2019-11-19 00:25:20,012 : [INFO] - Received command c on object id p1
+2019-11-19 00:25:20,020 : [INFO] - Received command c on object id p1
+2019-11-19 00:25:20,020 : [INFO] - Received command c on object id p2
+2019-11-19 00:25:20,027 : [INFO] - Received command c on object id p2
+2019-11-19 00:25:20,027 : [INFO] - Received command c on object id p3
+2019-11-19 00:25:20,051 : [INFO] - Received command c on object id p3
+2019-11-19 00:25:20,053 : [INFO] - Received command c on object id p4
+2019-11-19 00:25:20,054 : [INFO] - Bootstrapping cluster metadata from [('localhost', 9092, <AddressFamily.AF_UNSPEC: 0>)]
+2019-11-19 00:25:20,055 : [INFO] - <BrokerConnection node_id=bootstrap host=localhost/127.0.0.1 port=9092>: connecting to 127.0.0.1:9092
+2019-11-19 00:25:20,057 : [INFO] - Bootstrap succeeded: found 1 brokers and 4 topics.
+2019-11-19 00:25:20,058 : [INFO] - <BrokerConnection node_id=bootstrap host=localhost/127.0.0.1 port=9092>: Closing connection. 
+2019-11-19 00:25:20,058 : [INFO] - <BrokerConnection node_id=0 host=rohit-X406UAR/127.0.1.1 port=9092>: connecting to 127.0.1.1:9092
+2019-11-19 00:25:20,163 : [INFO] - Broker version identifed as 0.10.0
+2019-11-19 00:25:20,163 : [INFO] - Set configuration api_version=(0, 10, 0) to skip auto check_version requests on startup
+2019-11-19 00:25:20,168 : [INFO] - Closing the Kafka producer with 0 secs timeout.
+2019-11-19 00:25:20,168 : [INFO] - Proceeding to force close the producer since pending requests could not be completed within timeout 0.
+2019-11-19 00:25:20,169 : [INFO] - <BrokerConnection node_id=0 host=rohit-X406UAR/127.0.1.1 port=9092>: Closing connection. 
+2019-11-19 00:25:20,171 : [INFO] - Received command c on object id p4
+2019-11-19 00:25:30,015 : [INFO] - Received command c on object id p1
+2019-11-19 00:25:30,024 : [INFO] - Received command c on object id p1
+2019-11-19 00:25:30,025 : [INFO] - Received command c on object id p2
+2019-11-19 00:25:30,033 : [INFO] - Received command c on object id p2
+2019-11-19 00:25:30,034 : [INFO] - Received command c on object id p3
+2019-11-19 00:25:30,066 : [INFO] - Received command c on object id p3
+2019-11-19 00:25:30,067 : [INFO] - Received command c on object id p4
+2019-11-19 00:25:30,069 : [INFO] - Bootstrapping cluster metadata from [('localhost', 9092, <AddressFamily.AF_UNSPEC: 0>)]
+2019-11-19 00:25:30,071 : [INFO] - <BrokerConnection node_id=bootstrap host=localhost/127.0.0.1 port=9092>: connecting to 127.0.0.1:9092
+2019-11-19 00:25:30,072 : [INFO] - Bootstrap succeeded: found 1 brokers and 4 topics.
+2019-11-19 00:25:30,072 : [INFO] - <BrokerConnection node_id=bootstrap host=localhost/127.0.0.1 port=9092>: Closing connection. 
+2019-11-19 00:25:30,073 : [INFO] - <BrokerConnection node_id=0 host=rohit-X406UAR/127.0.1.1 port=9092>: connecting to 127.0.1.1:9092
+2019-11-19 00:25:30,177 : [INFO] - Broker version identifed as 0.10.0
+2019-11-19 00:25:30,177 : [INFO] - Set configuration api_version=(0, 10, 0) to skip auto check_version requests on startup
+2019-11-19 00:25:30,182 : [INFO] - Closing the Kafka producer with 0 secs timeout.
+2019-11-19 00:25:30,183 : [INFO] - Proceeding to force close the producer since pending requests could not be completed within timeout 0.
+2019-11-19 00:25:30,183 : [INFO] - <BrokerConnection node_id=0 host=rohit-X406UAR/127.0.1.1 port=9092>: Closing connection. 
+2019-11-19 00:25:30,185 : [INFO] - Received command c on object id p4
+2019-11-19 00:26:08,960 : [INFO] - Starting Spark Streaming Context on Localhost
+2019-11-19 00:26:10,144 : [INFO] - Callback Server Starting
+2019-11-19 00:26:10,144 : [INFO] - Socket listening on ('127.0.0.1', 35377)
+2019-11-19 00:26:10,198 : [INFO] - Spark Streaming Context on localhost started
+2019-11-19 00:26:10,198 : [INFO] - Attempting to connect to Kafka Broker on Topic: mysimbdp on broker: localhost:9092
+2019-11-19 00:26:10,532 : [INFO] - Successfully connected to Kafka Broker on Topic: mysimbdp on broker: localhost:9092
+2019-11-19 00:26:10,545 : [INFO] - Starting analytics!
+2019-11-19 00:26:20,065 : [INFO] - Callback Connection ready to receive messages
+2019-11-19 00:26:20,065 : [INFO] - Received command c on object id p1
+2019-11-19 00:26:20,095 : [INFO] - Received command c on object id p1
+2019-11-19 00:26:20,096 : [INFO] - Received command c on object id p2
+2019-11-19 00:26:20,105 : [INFO] - Received command c on object id p2
+2019-11-19 00:26:20,106 : [INFO] - Received command c on object id p3
+2019-11-19 00:26:20,143 : [INFO] - Received command c on object id p3
+2019-11-19 00:26:20,151 : [INFO] - Received command c on object id p4
+2019-11-19 00:26:20,154 : [INFO] - Bootstrapping cluster metadata from [('localhost', 9092, <AddressFamily.AF_UNSPEC: 0>)]
+2019-11-19 00:26:20,155 : [INFO] - <BrokerConnection node_id=bootstrap host=localhost/127.0.0.1 port=9092>: connecting to 127.0.0.1:9092
+2019-11-19 00:26:20,156 : [INFO] - Bootstrap succeeded: found 1 brokers and 4 topics.
+2019-11-19 00:26:20,156 : [INFO] - <BrokerConnection node_id=bootstrap host=localhost/127.0.0.1 port=9092>: Closing connection. 
+2019-11-19 00:26:20,156 : [INFO] - <BrokerConnection node_id=0 host=rohit-X406UAR/127.0.1.1 port=9092>: connecting to 127.0.1.1:9092
+2019-11-19 00:26:20,261 : [INFO] - Broker version identifed as 0.10.0
+2019-11-19 00:26:20,262 : [INFO] - Set configuration api_version=(0, 10, 0) to skip auto check_version requests on startup
+2019-11-19 00:26:20,266 : [INFO] - Closing the Kafka producer with 0 secs timeout.
+2019-11-19 00:26:20,267 : [INFO] - Proceeding to force close the producer since pending requests could not be completed within timeout 0.
+2019-11-19 00:26:20,267 : [INFO] - <BrokerConnection node_id=0 host=rohit-X406UAR/127.0.1.1 port=9092>: Closing connection. 
+2019-11-19 00:26:20,269 : [INFO] - Received command c on object id p4
+2019-11-19 00:26:30,013 : [INFO] - Received command c on object id p1
+2019-11-19 00:26:30,021 : [INFO] - Received command c on object id p1
+2019-11-19 00:26:30,022 : [INFO] - Received command c on object id p2
+2019-11-19 00:26:30,030 : [INFO] - Received command c on object id p2
+2019-11-19 00:26:30,030 : [INFO] - Received command c on object id p3
+2019-11-19 00:26:30,051 : [INFO] - Received command c on object id p3
+2019-11-19 00:26:30,053 : [INFO] - Received command c on object id p4
+2019-11-19 00:26:30,056 : [INFO] - Bootstrapping cluster metadata from [('localhost', 9092, <AddressFamily.AF_UNSPEC: 0>)]
+2019-11-19 00:26:30,056 : [INFO] - <BrokerConnection node_id=bootstrap host=localhost/127.0.0.1 port=9092>: connecting to 127.0.0.1:9092
+2019-11-19 00:26:30,058 : [INFO] - Bootstrap succeeded: found 1 brokers and 4 topics.
+2019-11-19 00:26:30,058 : [INFO] - <BrokerConnection node_id=bootstrap host=localhost/127.0.0.1 port=9092>: Closing connection. 
+2019-11-19 00:26:30,058 : [INFO] - <BrokerConnection node_id=0 host=rohit-X406UAR/127.0.1.1 port=9092>: connecting to 127.0.1.1:9092
+2019-11-19 00:26:30,163 : [INFO] - Broker version identifed as 0.10.0
+2019-11-19 00:26:30,163 : [INFO] - Set configuration api_version=(0, 10, 0) to skip auto check_version requests on startup
+2019-11-19 00:26:30,191 : [INFO] - Closing the Kafka producer with 0 secs timeout.
+2019-11-19 00:26:30,192 : [INFO] - Proceeding to force close the producer since pending requests could not be completed within timeout 0.
+2019-11-19 00:26:30,192 : [INFO] - <BrokerConnection node_id=0 host=rohit-X406UAR/127.0.1.1 port=9092>: Closing connection. 
+2019-11-19 00:26:30,193 : [INFO] - Received command c on object id p4
+2019-11-19 00:26:40,029 : [INFO] - Received command c on object id p1
+2019-11-19 00:26:40,045 : [INFO] - Received command c on object id p1
+2019-11-19 00:26:40,045 : [INFO] - Received command c on object id p2
+2019-11-19 00:26:40,057 : [INFO] - Received command c on object id p2
+2019-11-19 00:26:40,057 : [INFO] - Received command c on object id p3
+2019-11-19 00:26:40,091 : [INFO] - Received command c on object id p3
+2019-11-19 00:26:40,092 : [INFO] - Received command c on object id p4
+2019-11-19 00:26:40,094 : [INFO] - Bootstrapping cluster metadata from [('localhost', 9092, <AddressFamily.AF_UNSPEC: 0>)]
+2019-11-19 00:26:40,094 : [INFO] - <BrokerConnection node_id=bootstrap host=localhost/127.0.0.1 port=9092>: connecting to 127.0.0.1:9092
+2019-11-19 00:26:40,098 : [INFO] - Bootstrap succeeded: found 1 brokers and 4 topics.
+2019-11-19 00:26:40,098 : [INFO] - <BrokerConnection node_id=bootstrap host=localhost/127.0.0.1 port=9092>: Closing connection. 
+2019-11-19 00:26:40,099 : [INFO] - <BrokerConnection node_id=0 host=rohit-X406UAR/127.0.1.1 port=9092>: connecting to 127.0.1.1:9092
+2019-11-19 00:26:40,204 : [INFO] - Broker version identifed as 0.10.0
+2019-11-19 00:26:40,204 : [INFO] - Set configuration api_version=(0, 10, 0) to skip auto check_version requests on startup
+2019-11-19 00:26:40,208 : [INFO] - Closing the Kafka producer with 0 secs timeout.
+2019-11-19 00:26:40,208 : [INFO] - Proceeding to force close the producer since pending requests could not be completed within timeout 0.
+2019-11-19 00:26:40,209 : [INFO] - <BrokerConnection node_id=0 host=rohit-X406UAR/127.0.1.1 port=9092>: Closing connection. 
+2019-11-19 00:26:40,211 : [INFO] - Received command c on object id p4
+2019-11-19 00:26:50,016 : [INFO] - Received command c on object id p1
+2019-11-19 00:26:50,026 : [INFO] - Received command c on object id p1
+2019-11-19 00:26:50,026 : [INFO] - Received command c on object id p2
+2019-11-19 00:26:50,035 : [INFO] - Received command c on object id p2
+2019-11-19 00:26:50,036 : [INFO] - Received command c on object id p3
+2019-11-19 00:26:50,065 : [INFO] - Received command c on object id p3
+2019-11-19 00:26:50,066 : [INFO] - Received command c on object id p4
+2019-11-19 00:26:50,069 : [INFO] - Bootstrapping cluster metadata from [('localhost', 9092, <AddressFamily.AF_UNSPEC: 0>)]
+2019-11-19 00:26:50,071 : [INFO] - <BrokerConnection node_id=bootstrap host=localhost/127.0.0.1 port=9092>: connecting to 127.0.0.1:9092
+2019-11-19 00:26:50,073 : [INFO] - Bootstrap succeeded: found 1 brokers and 4 topics.
+2019-11-19 00:26:50,073 : [INFO] - <BrokerConnection node_id=bootstrap host=localhost/127.0.0.1 port=9092>: Closing connection. 
+2019-11-19 00:26:50,074 : [INFO] - <BrokerConnection node_id=0 host=rohit-X406UAR/127.0.1.1 port=9092>: connecting to 127.0.1.1:9092
+2019-11-19 00:26:50,178 : [INFO] - Broker version identifed as 0.10.0
+2019-11-19 00:26:50,179 : [INFO] - Set configuration api_version=(0, 10, 0) to skip auto check_version requests on startup
+2019-11-19 00:26:50,182 : [INFO] - Closing the Kafka producer with 0 secs timeout.
+2019-11-19 00:26:50,183 : [INFO] - Proceeding to force close the producer since pending requests could not be completed within timeout 0.
+2019-11-19 00:26:50,183 : [INFO] - <BrokerConnection node_id=0 host=rohit-X406UAR/127.0.1.1 port=9092>: Closing connection. 
+2019-11-19 00:26:50,185 : [INFO] - Received command c on object id p4
+2019-11-19 00:27:00,026 : [INFO] - Received command c on object id p1
+2019-11-19 00:27:00,048 : [INFO] - Received command c on object id p1
+2019-11-19 00:27:00,049 : [INFO] - Received command c on object id p2
+2019-11-19 00:27:00,058 : [INFO] - Received command c on object id p2
+2019-11-19 00:27:00,059 : [INFO] - Received command c on object id p3
+2019-11-19 00:27:00,084 : [INFO] - Received command c on object id p3
+2019-11-19 00:27:00,085 : [INFO] - Received command c on object id p4
+2019-11-19 00:27:00,087 : [INFO] - Bootstrapping cluster metadata from [('localhost', 9092, <AddressFamily.AF_UNSPEC: 0>)]
+2019-11-19 00:27:00,089 : [INFO] - <BrokerConnection node_id=bootstrap host=localhost/127.0.0.1 port=9092>: connecting to 127.0.0.1:9092
+2019-11-19 00:27:00,090 : [INFO] - Bootstrap succeeded: found 1 brokers and 4 topics.
+2019-11-19 00:27:00,090 : [INFO] - <BrokerConnection node_id=bootstrap host=localhost/127.0.0.1 port=9092>: Closing connection. 
+2019-11-19 00:27:00,091 : [INFO] - <BrokerConnection node_id=0 host=rohit-X406UAR/127.0.1.1 port=9092>: connecting to 127.0.1.1:9092
+2019-11-19 00:27:00,196 : [INFO] - Broker version identifed as 0.10.0
+2019-11-19 00:27:00,196 : [INFO] - Set configuration api_version=(0, 10, 0) to skip auto check_version requests on startup
+2019-11-19 00:27:00,204 : [INFO] - Closing the Kafka producer with 0 secs timeout.
+2019-11-19 00:27:00,205 : [INFO] - Proceeding to force close the producer since pending requests could not be completed within timeout 0.
+2019-11-19 00:27:00,205 : [INFO] - <BrokerConnection node_id=0 host=rohit-X406UAR/127.0.1.1 port=9092>: Closing connection. 
+2019-11-19 00:27:00,207 : [INFO] - Received command c on object id p4
+2019-11-19 00:27:10,020 : [INFO] - Received command c on object id p1
+2019-11-19 00:27:10,048 : [INFO] - Received command c on object id p1
+2019-11-19 00:27:10,049 : [INFO] - Received command c on object id p2
+2019-11-19 00:27:10,067 : [INFO] - Received command c on object id p2
+2019-11-19 00:27:10,068 : [INFO] - Received command c on object id p3
+2019-11-19 00:27:10,100 : [INFO] - Received command c on object id p3
+2019-11-19 00:27:10,101 : [INFO] - Received command c on object id p4
+2019-11-19 00:27:10,103 : [INFO] - Bootstrapping cluster metadata from [('localhost', 9092, <AddressFamily.AF_UNSPEC: 0>)]
+2019-11-19 00:27:10,105 : [INFO] - <BrokerConnection node_id=bootstrap host=localhost/127.0.0.1 port=9092>: connecting to 127.0.0.1:9092
+2019-11-19 00:27:10,106 : [INFO] - Bootstrap succeeded: found 1 brokers and 4 topics.
+2019-11-19 00:27:10,107 : [INFO] - <BrokerConnection node_id=bootstrap host=localhost/127.0.0.1 port=9092>: Closing connection. 
+2019-11-19 00:27:10,107 : [INFO] - <BrokerConnection node_id=0 host=rohit-X406UAR/127.0.1.1 port=9092>: connecting to 127.0.1.1:9092
+2019-11-19 00:27:10,213 : [INFO] - Broker version identifed as 0.10.0
+2019-11-19 00:27:10,213 : [INFO] - Set configuration api_version=(0, 10, 0) to skip auto check_version requests on startup
+2019-11-19 00:27:10,217 : [INFO] - Closing the Kafka producer with 0 secs timeout.
+2019-11-19 00:27:10,217 : [INFO] - Proceeding to force close the producer since pending requests could not be completed within timeout 0.
+2019-11-19 00:27:10,218 : [INFO] - <BrokerConnection node_id=0 host=rohit-X406UAR/127.0.1.1 port=9092>: Closing connection. 
+2019-11-19 00:27:10,219 : [INFO] - Received command c on object id p4
+2019-11-19 00:27:20,011 : [INFO] - Received command c on object id p1
+2019-11-19 00:27:20,020 : [INFO] - Received command c on object id p1
+2019-11-19 00:27:20,020 : [INFO] - Received command c on object id p2
+2019-11-19 00:27:20,027 : [INFO] - Received command c on object id p2
+2019-11-19 00:27:20,027 : [INFO] - Received command c on object id p3
+2019-11-19 00:27:20,048 : [INFO] - Received command c on object id p3
+2019-11-19 00:27:20,050 : [INFO] - Received command c on object id p4
+2019-11-19 00:27:20,051 : [INFO] - Bootstrapping cluster metadata from [('localhost', 9092, <AddressFamily.AF_UNSPEC: 0>)]
+2019-11-19 00:27:20,053 : [INFO] - <BrokerConnection node_id=bootstrap host=localhost/127.0.0.1 port=9092>: connecting to 127.0.0.1:9092
+2019-11-19 00:27:20,054 : [INFO] - Bootstrap succeeded: found 1 brokers and 4 topics.
+2019-11-19 00:27:20,055 : [INFO] - <BrokerConnection node_id=bootstrap host=localhost/127.0.0.1 port=9092>: Closing connection. 
+2019-11-19 00:27:20,055 : [INFO] - <BrokerConnection node_id=0 host=rohit-X406UAR/127.0.1.1 port=9092>: connecting to 127.0.1.1:9092
+2019-11-19 00:27:20,160 : [INFO] - Broker version identifed as 0.10.0
+2019-11-19 00:27:20,161 : [INFO] - Set configuration api_version=(0, 10, 0) to skip auto check_version requests on startup
+2019-11-19 00:27:20,165 : [INFO] - Closing the Kafka producer with 0 secs timeout.
+2019-11-19 00:27:20,165 : [INFO] - Proceeding to force close the producer since pending requests could not be completed within timeout 0.
+2019-11-19 00:27:20,166 : [INFO] - <BrokerConnection node_id=0 host=rohit-X406UAR/127.0.1.1 port=9092>: Closing connection. 
+2019-11-19 00:27:20,167 : [INFO] - Received command c on object id p4
+2019-11-19 00:27:30,015 : [INFO] - Received command c on object id p1
+2019-11-19 00:27:30,025 : [INFO] - Received command c on object id p1
+2019-11-19 00:27:30,025 : [INFO] - Received command c on object id p2
+2019-11-19 00:27:30,032 : [INFO] - Received command c on object id p2
+2019-11-19 00:27:30,033 : [INFO] - Received command c on object id p3
+2019-11-19 00:27:30,053 : [INFO] - Received command c on object id p3
+2019-11-19 00:27:30,054 : [INFO] - Received command c on object id p4
+2019-11-19 00:27:30,056 : [INFO] - Bootstrapping cluster metadata from [('localhost', 9092, <AddressFamily.AF_UNSPEC: 0>)]
+2019-11-19 00:27:30,058 : [INFO] - <BrokerConnection node_id=bootstrap host=localhost/127.0.0.1 port=9092>: connecting to 127.0.0.1:9092
+2019-11-19 00:27:30,060 : [INFO] - Bootstrap succeeded: found 1 brokers and 4 topics.
+2019-11-19 00:27:30,060 : [INFO] - <BrokerConnection node_id=bootstrap host=localhost/127.0.0.1 port=9092>: Closing connection. 
+2019-11-19 00:27:30,060 : [INFO] - <BrokerConnection node_id=0 host=rohit-X406UAR/127.0.1.1 port=9092>: connecting to 127.0.1.1:9092
+2019-11-19 00:27:30,165 : [INFO] - Broker version identifed as 0.10.0
+2019-11-19 00:27:30,165 : [INFO] - Set configuration api_version=(0, 10, 0) to skip auto check_version requests on startup
+2019-11-19 00:27:30,172 : [INFO] - Closing the Kafka producer with 0 secs timeout.
+2019-11-19 00:27:30,172 : [INFO] - Proceeding to force close the producer since pending requests could not be completed within timeout 0.
+2019-11-19 00:27:30,172 : [INFO] - <BrokerConnection node_id=0 host=rohit-X406UAR/127.0.1.1 port=9092>: Closing connection. 
+2019-11-19 00:27:30,174 : [INFO] - Received command c on object id p4
+2019-11-19 00:27:40,022 : [INFO] - Received command c on object id p1
+2019-11-19 00:27:40,038 : [INFO] - Received command c on object id p1
+2019-11-19 00:27:40,038 : [INFO] - Received command c on object id p2
+2019-11-19 00:27:40,051 : [INFO] - Received command c on object id p2
+2019-11-19 00:27:40,051 : [INFO] - Received command c on object id p3
+2019-11-19 00:27:40,089 : [INFO] - Received command c on object id p3
+2019-11-19 00:27:40,091 : [INFO] - Received command c on object id p4
+2019-11-19 00:27:40,093 : [INFO] - Bootstrapping cluster metadata from [('localhost', 9092, <AddressFamily.AF_UNSPEC: 0>)]
+2019-11-19 00:27:40,097 : [INFO] - <BrokerConnection node_id=bootstrap host=localhost/127.0.0.1 port=9092>: connecting to 127.0.0.1:9092
+2019-11-19 00:27:40,099 : [INFO] - Bootstrap succeeded: found 1 brokers and 4 topics.
+2019-11-19 00:27:40,100 : [INFO] - <BrokerConnection node_id=bootstrap host=localhost/127.0.0.1 port=9092>: Closing connection. 
+2019-11-19 00:27:40,100 : [INFO] - <BrokerConnection node_id=0 host=rohit-X406UAR/127.0.1.1 port=9092>: connecting to 127.0.1.1:9092
+2019-11-19 00:27:40,206 : [INFO] - Broker version identifed as 0.10.0
+2019-11-19 00:27:40,206 : [INFO] - Set configuration api_version=(0, 10, 0) to skip auto check_version requests on startup
+2019-11-19 00:27:40,209 : [INFO] - Closing the Kafka producer with 0 secs timeout.
+2019-11-19 00:27:40,210 : [INFO] - Proceeding to force close the producer since pending requests could not be completed within timeout 0.
+2019-11-19 00:27:40,210 : [INFO] - <BrokerConnection node_id=0 host=rohit-X406UAR/127.0.1.1 port=9092>: Closing connection. 
+2019-11-19 00:27:40,212 : [INFO] - Received command c on object id p4
+2019-11-19 00:27:50,027 : [INFO] - Received command c on object id p1
+2019-11-19 00:27:50,045 : [INFO] - Received command c on object id p1
+2019-11-19 00:27:50,046 : [INFO] - Received command c on object id p2
+2019-11-19 00:27:50,057 : [INFO] - Received command c on object id p2
+2019-11-19 00:27:50,058 : [INFO] - Received command c on object id p3
+2019-11-19 00:27:50,083 : [INFO] - Received command c on object id p3
+2019-11-19 00:27:50,085 : [INFO] - Received command c on object id p4
+2019-11-19 00:27:50,087 : [INFO] - Bootstrapping cluster metadata from [('localhost', 9092, <AddressFamily.AF_UNSPEC: 0>)]
+2019-11-19 00:27:50,089 : [INFO] - <BrokerConnection node_id=bootstrap host=localhost/127.0.0.1 port=9092>: connecting to 127.0.0.1:9092
+2019-11-19 00:27:50,091 : [INFO] - Bootstrap succeeded: found 1 brokers and 4 topics.
+2019-11-19 00:27:50,091 : [INFO] - <BrokerConnection node_id=bootstrap host=localhost/127.0.0.1 port=9092>: Closing connection. 
+2019-11-19 00:27:50,092 : [INFO] - <BrokerConnection node_id=0 host=rohit-X406UAR/127.0.1.1 port=9092>: connecting to 127.0.1.1:9092
+2019-11-19 00:27:50,195 : [INFO] - Broker version identifed as 0.10.0
+2019-11-19 00:27:50,195 : [INFO] - Set configuration api_version=(0, 10, 0) to skip auto check_version requests on startup
+2019-11-19 00:27:50,198 : [INFO] - Closing the Kafka producer with 0 secs timeout.
+2019-11-19 00:27:50,198 : [INFO] - Proceeding to force close the producer since pending requests could not be completed within timeout 0.
+2019-11-19 00:27:50,199 : [INFO] - <BrokerConnection node_id=0 host=rohit-X406UAR/127.0.1.1 port=9092>: Closing connection. 
+2019-11-19 00:27:50,200 : [INFO] - Received command c on object id p4
+2019-11-19 00:28:00,015 : [INFO] - Received command c on object id p1
+2019-11-19 00:28:00,023 : [INFO] - Received command c on object id p1
+2019-11-19 00:28:00,023 : [INFO] - Received command c on object id p2
+2019-11-19 00:28:00,031 : [INFO] - Received command c on object id p2
+2019-11-19 00:28:00,031 : [INFO] - Received command c on object id p3
+2019-11-19 00:28:00,050 : [INFO] - Received command c on object id p3
+2019-11-19 00:28:00,052 : [INFO] - Received command c on object id p4
+2019-11-19 00:28:00,053 : [INFO] - Bootstrapping cluster metadata from [('localhost', 9092, <AddressFamily.AF_UNSPEC: 0>)]
+2019-11-19 00:28:00,055 : [INFO] - <BrokerConnection node_id=bootstrap host=localhost/127.0.0.1 port=9092>: connecting to 127.0.0.1:9092
+2019-11-19 00:28:00,057 : [INFO] - Bootstrap succeeded: found 1 brokers and 4 topics.
+2019-11-19 00:28:00,057 : [INFO] - <BrokerConnection node_id=bootstrap host=localhost/127.0.0.1 port=9092>: Closing connection. 
+2019-11-19 00:28:00,057 : [INFO] - <BrokerConnection node_id=0 host=rohit-X406UAR/127.0.1.1 port=9092>: connecting to 127.0.1.1:9092
+2019-11-19 00:28:00,162 : [INFO] - Broker version identifed as 0.10.0
+2019-11-19 00:28:00,162 : [INFO] - Set configuration api_version=(0, 10, 0) to skip auto check_version requests on startup
+2019-11-19 00:28:00,169 : [INFO] - Closing the Kafka producer with 0 secs timeout.
+2019-11-19 00:28:00,169 : [INFO] - Proceeding to force close the producer since pending requests could not be completed within timeout 0.
+2019-11-19 00:28:00,170 : [INFO] - <BrokerConnection node_id=0 host=rohit-X406UAR/127.0.1.1 port=9092>: Closing connection. 
+2019-11-19 00:28:00,171 : [INFO] - Received command c on object id p4
+2019-11-19 00:42:58,973 : [INFO] - Starting Spark Streaming Context on Localhost
+2019-11-19 00:43:00,082 : [INFO] - Callback Server Starting
+2019-11-19 00:43:00,082 : [INFO] - Socket listening on ('127.0.0.1', 34361)
+2019-11-19 00:43:00,134 : [INFO] - Spark Streaming Context on localhost started
+2019-11-19 00:43:00,134 : [INFO] - Attempting to connect to Kafka Broker on Topic: mysimbdp on broker: localhost:9092
+2019-11-19 00:43:00,453 : [INFO] - Successfully connected to Kafka Broker on Topic: mysimbdp on broker: localhost:9092
+2019-11-19 00:43:00,466 : [INFO] - Starting analytics!
+2019-11-19 00:43:10,090 : [INFO] - Callback Connection ready to receive messages
+2019-11-19 00:43:10,090 : [INFO] - Received command c on object id p1
+2019-11-19 00:43:10,117 : [INFO] - Received command c on object id p1
+2019-11-19 00:43:10,117 : [INFO] - Received command c on object id p2
+2019-11-19 00:43:10,125 : [INFO] - Received command c on object id p2
+2019-11-19 00:43:10,126 : [INFO] - Received command c on object id p3
+2019-11-19 00:43:10,159 : [INFO] - Received command c on object id p3
+2019-11-19 00:43:10,167 : [INFO] - Received command c on object id p4
+2019-11-19 00:43:12,271 : [INFO] - Bootstrapping cluster metadata from [('localhost', 9092, <AddressFamily.AF_UNSPEC: 0>)]
+2019-11-19 00:43:12,272 : [INFO] - <BrokerConnection node_id=bootstrap host=localhost/127.0.0.1 port=9092>: connecting to 127.0.0.1:9092
+2019-11-19 00:43:12,274 : [INFO] - Bootstrap succeeded: found 1 brokers and 4 topics.
+2019-11-19 00:43:12,274 : [INFO] - <BrokerConnection node_id=bootstrap host=localhost/127.0.0.1 port=9092>: Closing connection. 
+2019-11-19 00:43:12,275 : [INFO] - <BrokerConnection node_id=0 host=rohit-X406UAR/127.0.1.1 port=9092>: connecting to 127.0.1.1:9092
+2019-11-19 00:43:12,380 : [INFO] - Broker version identifed as 0.10.0
+2019-11-19 00:43:12,381 : [INFO] - Set configuration api_version=(0, 10, 0) to skip auto check_version requests on startup
+2019-11-19 00:43:12,848 : [INFO] - Closing the Kafka producer with 0 secs timeout.
+2019-11-19 00:43:12,849 : [INFO] - Proceeding to force close the producer since pending requests could not be completed within timeout 0.
+2019-11-19 00:43:12,849 : [INFO] - <BrokerConnection node_id=0 host=rohit-X406UAR/127.0.1.1 port=9092>: Closing connection. 
+2019-11-19 00:43:12,850 : [INFO] - Received command c on object id p4
+2019-11-19 00:43:59,993 : [INFO] - Starting Spark Streaming Context on Localhost
+2019-11-19 00:44:01,180 : [INFO] - Callback Server Starting
+2019-11-19 00:44:01,180 : [INFO] - Socket listening on ('127.0.0.1', 46323)
+2019-11-19 00:44:01,235 : [INFO] - Spark Streaming Context on localhost started
+2019-11-19 00:44:01,235 : [INFO] - Attempting to connect to Kafka Broker on Topic: mysimbdp on broker: localhost:9092
+2019-11-19 00:44:01,637 : [INFO] - Successfully connected to Kafka Broker on Topic: mysimbdp on broker: localhost:9092
+2019-11-19 00:44:01,652 : [INFO] - Starting analytics!
+2019-11-19 00:44:10,060 : [INFO] - Callback Connection ready to receive messages
+2019-11-19 00:44:10,060 : [INFO] - Received command c on object id p1
+2019-11-19 00:44:10,090 : [INFO] - Received command c on object id p1
+2019-11-19 00:44:10,090 : [INFO] - Received command c on object id p2
+2019-11-19 00:44:10,100 : [INFO] - Received command c on object id p2
+2019-11-19 00:44:10,100 : [INFO] - Received command c on object id p3
+2019-11-19 00:44:10,141 : [INFO] - Received command c on object id p3
+2019-11-19 00:44:10,150 : [INFO] - Received command c on object id p4
+2019-11-19 00:44:12,390 : [INFO] - Bootstrapping cluster metadata from [('localhost', 9092, <AddressFamily.AF_UNSPEC: 0>)]
+2019-11-19 00:44:12,391 : [INFO] - <BrokerConnection node_id=bootstrap host=localhost/127.0.0.1 port=9092>: connecting to 127.0.0.1:9092
+2019-11-19 00:44:12,393 : [INFO] - Bootstrap succeeded: found 1 brokers and 5 topics.
+2019-11-19 00:44:12,393 : [INFO] - <BrokerConnection node_id=bootstrap host=localhost/127.0.0.1 port=9092>: Closing connection. 
+2019-11-19 00:44:12,394 : [INFO] - <BrokerConnection node_id=0 host=rohit-X406UAR/127.0.1.1 port=9092>: connecting to 127.0.1.1:9092
+2019-11-19 00:44:12,499 : [INFO] - Broker version identifed as 0.10.0
+2019-11-19 00:44:12,499 : [INFO] - Set configuration api_version=(0, 10, 0) to skip auto check_version requests on startup
+2019-11-19 00:44:12,503 : [INFO] - Closing the Kafka producer with 0 secs timeout.
+2019-11-19 00:44:12,504 : [INFO] - Proceeding to force close the producer since pending requests could not be completed within timeout 0.
+2019-11-19 00:44:12,504 : [INFO] - <BrokerConnection node_id=0 host=rohit-X406UAR/127.0.1.1 port=9092>: Closing connection. 
+2019-11-19 00:44:12,506 : [INFO] - Received command c on object id p4
+2019-11-19 00:44:43,515 : [INFO] - Starting Spark Streaming Context on Localhost
+2019-11-19 00:44:44,703 : [INFO] - Callback Server Starting
+2019-11-19 00:44:44,704 : [INFO] - Socket listening on ('127.0.0.1', 42449)
+2019-11-19 00:44:44,749 : [INFO] - Spark Streaming Context on localhost started
+2019-11-19 00:44:44,749 : [INFO] - Attempting to connect to Kafka Broker on Topic: mysimbdp on broker: localhost:9092
+2019-11-19 00:44:45,119 : [INFO] - Successfully connected to Kafka Broker on Topic: mysimbdp on broker: localhost:9092
+2019-11-19 00:44:45,132 : [INFO] - Starting analytics!
+2019-11-19 00:44:50,063 : [INFO] - Callback Connection ready to receive messages
+2019-11-19 00:44:50,063 : [INFO] - Received command c on object id p1
+2019-11-19 00:44:50,090 : [INFO] - Received command c on object id p1
+2019-11-19 00:44:50,091 : [INFO] - Received command c on object id p2
+2019-11-19 00:44:50,101 : [INFO] - Received command c on object id p2
+2019-11-19 00:44:50,101 : [INFO] - Received command c on object id p3
+2019-11-19 00:44:50,140 : [INFO] - Received command c on object id p3
+2019-11-19 00:44:50,149 : [INFO] - Received command c on object id p4
+2019-11-19 00:44:52,156 : [INFO] - Bootstrapping cluster metadata from [('localhost', 9092, <AddressFamily.AF_UNSPEC: 0>)]
+2019-11-19 00:44:52,157 : [INFO] - <BrokerConnection node_id=bootstrap host=localhost/127.0.0.1 port=9092>: connecting to 127.0.0.1:9092
+2019-11-19 00:44:52,159 : [INFO] - Bootstrap succeeded: found 1 brokers and 5 topics.
+2019-11-19 00:44:52,159 : [INFO] - <BrokerConnection node_id=bootstrap host=localhost/127.0.0.1 port=9092>: Closing connection. 
+2019-11-19 00:44:52,160 : [INFO] - <BrokerConnection node_id=0 host=rohit-X406UAR/127.0.1.1 port=9092>: connecting to 127.0.1.1:9092
+2019-11-19 00:44:52,265 : [INFO] - Broker version identifed as 0.10.0
+2019-11-19 00:44:52,266 : [INFO] - Set configuration api_version=(0, 10, 0) to skip auto check_version requests on startup
+2019-11-19 00:44:52,332 : [INFO] - Closing the Kafka producer with 0 secs timeout.
+2019-11-19 00:44:52,333 : [INFO] - Proceeding to force close the producer since pending requests could not be completed within timeout 0.
+2019-11-19 00:44:52,333 : [INFO] - <BrokerConnection node_id=0 host=rohit-X406UAR/127.0.1.1 port=9092>: Closing connection. 
+2019-11-19 00:44:52,335 : [INFO] - Received command c on object id p4
+2019-11-19 00:45:00,027 : [INFO] - Received command c on object id p1
+2019-11-19 00:45:00,051 : [INFO] - Received command c on object id p1
+2019-11-19 00:45:00,051 : [INFO] - Received command c on object id p2
+2019-11-19 00:45:00,067 : [INFO] - Received command c on object id p2
+2019-11-19 00:45:00,067 : [INFO] - Received command c on object id p3
+2019-11-19 00:45:00,111 : [INFO] - Received command c on object id p3
+2019-11-19 00:45:00,113 : [INFO] - Received command c on object id p4
+2019-11-19 00:45:01,120 : [INFO] - Bootstrapping cluster metadata from [('localhost', 9092, <AddressFamily.AF_UNSPEC: 0>)]
+2019-11-19 00:45:01,125 : [INFO] - <BrokerConnection node_id=bootstrap host=localhost/127.0.0.1 port=9092>: connecting to 127.0.0.1:9092
+2019-11-19 00:45:01,127 : [INFO] - Bootstrap succeeded: found 1 brokers and 5 topics.
+2019-11-19 00:45:01,127 : [INFO] - <BrokerConnection node_id=bootstrap host=localhost/127.0.0.1 port=9092>: Closing connection. 
+2019-11-19 00:45:01,128 : [INFO] - <BrokerConnection node_id=0 host=rohit-X406UAR/127.0.1.1 port=9092>: connecting to 127.0.1.1:9092
+2019-11-19 00:45:01,231 : [INFO] - Broker version identifed as 0.10.0
+2019-11-19 00:45:01,231 : [INFO] - Set configuration api_version=(0, 10, 0) to skip auto check_version requests on startup
+2019-11-19 00:45:01,334 : [INFO] - Closing the Kafka producer with 0 secs timeout.
+2019-11-19 00:45:01,334 : [INFO] - Proceeding to force close the producer since pending requests could not be completed within timeout 0.
+2019-11-19 00:45:01,335 : [INFO] - <BrokerConnection node_id=0 host=rohit-X406UAR/127.0.1.1 port=9092>: Closing connection. 
+2019-11-19 00:45:01,335 : [INFO] - Received command c on object id p4
+2019-11-19 00:54:09,704 : [INFO] - Starting Spark Streaming Context on Localhost
+2019-11-19 00:54:13,433 : [INFO] - Callback Server Starting
+2019-11-19 00:54:13,434 : [INFO] - Socket listening on ('127.0.0.1', 44359)
+2019-11-19 00:54:13,500 : [INFO] - Spark Streaming Context on localhost started
+2019-11-19 00:54:13,500 : [INFO] - Attempting to connect to Kafka Broker on Topic: mysimbdp on broker: localhost:9092
+2019-11-19 00:56:18,380 : [INFO] - Starting Spark Streaming Context on Localhost
+2019-11-19 00:56:19,728 : [INFO] - Callback Server Starting
+2019-11-19 00:56:19,729 : [INFO] - Socket listening on ('127.0.0.1', 43437)
+2019-11-19 00:56:19,794 : [INFO] - Spark Streaming Context on localhost started
+2019-11-19 00:56:19,794 : [INFO] - Attempting to connect to Kafka Broker on Topic: mysimbdp on broker: localhost:9092
+2019-11-19 00:56:20,217 : [INFO] - Successfully connected to Kafka Broker on Topic: mysimbdp on broker: localhost:9092
+2019-11-19 00:56:20,243 : [INFO] - Starting analytics!
+2019-11-19 00:56:30,074 : [INFO] - Callback Connection ready to receive messages
+2019-11-19 00:56:30,074 : [INFO] - Received command c on object id p1
+2019-11-19 00:56:30,101 : [INFO] - Received command c on object id p1
+2019-11-19 00:56:30,102 : [INFO] - Received command c on object id p2
+2019-11-19 00:56:30,113 : [INFO] - Received command c on object id p2
+2019-11-19 00:56:30,113 : [INFO] - Received command c on object id p3
+2019-11-19 00:56:30,121 : [INFO] - Received command c on object id p3
+2019-11-19 00:56:30,122 : [INFO] - Received command c on object id p5
+2019-11-19 00:56:30,158 : [INFO] - Received command c on object id p5
+2019-11-19 00:56:30,167 : [INFO] - Received command c on object id p4
+2019-11-19 00:56:31,978 : [INFO] - Bootstrapping cluster metadata from [('localhost', 9092, <AddressFamily.AF_UNSPEC: 0>)]
+2019-11-19 00:56:31,979 : [INFO] - <BrokerConnection node_id=bootstrap host=localhost/127.0.0.1 port=9092>: connecting to 127.0.0.1:9092
+2019-11-19 00:56:31,983 : [INFO] - Bootstrap succeeded: found 1 brokers and 5 topics.
+2019-11-19 00:56:31,983 : [INFO] - <BrokerConnection node_id=bootstrap host=localhost/127.0.0.1 port=9092>: Closing connection. 
+2019-11-19 00:56:31,984 : [INFO] - <BrokerConnection node_id=0 host=rohit-X406UAR/127.0.1.1 port=9092>: connecting to 127.0.1.1:9092
+2019-11-19 00:56:32,089 : [INFO] - Broker version identifed as 0.10.0
+2019-11-19 00:56:32,089 : [INFO] - Set configuration api_version=(0, 10, 0) to skip auto check_version requests on startup
+2019-11-19 00:56:32,093 : [INFO] - Closing the Kafka producer with 0 secs timeout.
+2019-11-19 00:56:32,094 : [INFO] - Proceeding to force close the producer since pending requests could not be completed within timeout 0.
+2019-11-19 00:56:32,094 : [INFO] - <BrokerConnection node_id=0 host=rohit-X406UAR/127.0.1.1 port=9092>: Closing connection. 
+2019-11-19 00:56:32,096 : [INFO] - Received command c on object id p4
+2019-11-19 00:56:32,100 : [INFO] - Received command c on object id p6
+2019-11-19 00:56:33,624 : [INFO] - Bootstrapping cluster metadata from [('localhost', 9092, <AddressFamily.AF_UNSPEC: 0>)]
+2019-11-19 00:56:33,625 : [INFO] - <BrokerConnection node_id=bootstrap host=localhost/127.0.0.1 port=9092>: connecting to 127.0.0.1:9092
+2019-11-19 00:56:33,627 : [INFO] - Bootstrap succeeded: found 1 brokers and 5 topics.
+2019-11-19 00:56:33,628 : [INFO] - <BrokerConnection node_id=bootstrap host=localhost/127.0.0.1 port=9092>: Closing connection. 
+2019-11-19 00:56:33,630 : [INFO] - <BrokerConnection node_id=0 host=rohit-X406UAR/127.0.1.1 port=9092>: connecting to 127.0.1.1:9092
+2019-11-19 00:56:33,732 : [INFO] - Broker version identifed as 0.10.0
+2019-11-19 00:56:33,732 : [INFO] - Set configuration api_version=(0, 10, 0) to skip auto check_version requests on startup
+2019-11-19 00:56:33,743 : [INFO] - Closing the Kafka producer with 0 secs timeout.
+2019-11-19 00:56:33,743 : [INFO] - Proceeding to force close the producer since pending requests could not be completed within timeout 0.
+2019-11-19 00:56:33,743 : [INFO] - <BrokerConnection node_id=0 host=rohit-X406UAR/127.0.1.1 port=9092>: Closing connection. 
+2019-11-19 00:56:33,744 : [INFO] - Received command c on object id p6
+2019-11-19 00:56:40,017 : [INFO] - Received command c on object id p1
+2019-11-19 00:56:40,025 : [INFO] - Received command c on object id p1
+2019-11-19 00:56:40,026 : [INFO] - Received command c on object id p2
+2019-11-19 00:56:40,034 : [INFO] - Received command c on object id p2
+2019-11-19 00:56:40,034 : [INFO] - Received command c on object id p3
+2019-11-19 00:56:40,043 : [INFO] - Received command c on object id p3
+2019-11-19 00:56:40,043 : [INFO] - Received command c on object id p5
+2019-11-19 00:56:40,062 : [INFO] - Received command c on object id p5
+2019-11-19 00:56:40,063 : [INFO] - Received command c on object id p4
+2019-11-19 00:56:40,869 : [INFO] - Bootstrapping cluster metadata from [('localhost', 9092, <AddressFamily.AF_UNSPEC: 0>)]
+2019-11-19 00:56:40,869 : [INFO] - <BrokerConnection node_id=bootstrap host=localhost/127.0.0.1 port=9092>: connecting to 127.0.0.1:9092
+2019-11-19 00:56:40,874 : [INFO] - Bootstrap succeeded: found 1 brokers and 5 topics.
+2019-11-19 00:56:40,874 : [INFO] - <BrokerConnection node_id=bootstrap host=localhost/127.0.0.1 port=9092>: Closing connection. 
+2019-11-19 00:56:40,875 : [INFO] - <BrokerConnection node_id=0 host=rohit-X406UAR/127.0.1.1 port=9092>: connecting to 127.0.1.1:9092
+2019-11-19 00:56:40,980 : [INFO] - Broker version identifed as 0.10.0
+2019-11-19 00:56:40,980 : [INFO] - Set configuration api_version=(0, 10, 0) to skip auto check_version requests on startup
+2019-11-19 00:56:40,983 : [INFO] - Closing the Kafka producer with 0 secs timeout.
+2019-11-19 00:56:40,984 : [INFO] - Proceeding to force close the producer since pending requests could not be completed within timeout 0.
+2019-11-19 00:56:40,984 : [INFO] - <BrokerConnection node_id=0 host=rohit-X406UAR/127.0.1.1 port=9092>: Closing connection. 
+2019-11-19 00:56:40,985 : [INFO] - Received command c on object id p4
+2019-11-19 00:56:40,989 : [INFO] - Received command c on object id p6
+2019-11-19 00:56:41,933 : [INFO] - Bootstrapping cluster metadata from [('localhost', 9092, <AddressFamily.AF_UNSPEC: 0>)]
+2019-11-19 00:56:41,934 : [INFO] - <BrokerConnection node_id=bootstrap host=localhost/127.0.0.1 port=9092>: connecting to 127.0.0.1:9092
+2019-11-19 00:56:41,936 : [INFO] - Bootstrap succeeded: found 1 brokers and 5 topics.
+2019-11-19 00:56:41,936 : [INFO] - <BrokerConnection node_id=bootstrap host=localhost/127.0.0.1 port=9092>: Closing connection. 
+2019-11-19 00:56:41,937 : [INFO] - <BrokerConnection node_id=0 host=rohit-X406UAR/127.0.1.1 port=9092>: connecting to 127.0.1.1:9092
+2019-11-19 00:56:42,042 : [INFO] - Broker version identifed as 0.10.0
+2019-11-19 00:56:42,043 : [INFO] - Set configuration api_version=(0, 10, 0) to skip auto check_version requests on startup
+2019-11-19 00:56:42,046 : [INFO] - Closing the Kafka producer with 0 secs timeout.
+2019-11-19 00:56:42,046 : [INFO] - Proceeding to force close the producer since pending requests could not be completed within timeout 0.
+2019-11-19 00:56:42,047 : [INFO] - <BrokerConnection node_id=0 host=rohit-X406UAR/127.0.1.1 port=9092>: Closing connection. 
+2019-11-19 00:56:42,048 : [INFO] - Received command c on object id p6
+2019-11-19 00:56:50,020 : [INFO] - Received command c on object id p1
+2019-11-19 00:56:50,049 : [INFO] - Received command c on object id p1
+2019-11-19 00:56:50,050 : [INFO] - Received command c on object id p2
+2019-11-19 00:56:50,079 : [INFO] - Received command c on object id p2
+2019-11-19 00:56:50,080 : [INFO] - Received command c on object id p3
+2019-11-19 00:56:50,110 : [INFO] - Received command c on object id p3
+2019-11-19 00:56:50,111 : [INFO] - Received command c on object id p5
+2019-11-19 00:56:50,178 : [INFO] - Received command c on object id p5
+2019-11-19 00:56:50,179 : [INFO] - Received command c on object id p4
+2019-11-19 00:56:50,939 : [INFO] - Bootstrapping cluster metadata from [('localhost', 9092, <AddressFamily.AF_UNSPEC: 0>)]
+2019-11-19 00:56:50,940 : [INFO] - <BrokerConnection node_id=bootstrap host=localhost/127.0.0.1 port=9092>: connecting to 127.0.0.1:9092
+2019-11-19 00:56:50,942 : [INFO] - Bootstrap succeeded: found 1 brokers and 5 topics.
+2019-11-19 00:56:50,942 : [INFO] - <BrokerConnection node_id=bootstrap host=localhost/127.0.0.1 port=9092>: Closing connection. 
+2019-11-19 00:56:50,942 : [INFO] - <BrokerConnection node_id=0 host=rohit-X406UAR/127.0.1.1 port=9092>: connecting to 127.0.1.1:9092
+2019-11-19 00:56:51,047 : [INFO] - Broker version identifed as 0.10.0
+2019-11-19 00:56:51,048 : [INFO] - Set configuration api_version=(0, 10, 0) to skip auto check_version requests on startup
+2019-11-19 00:56:51,055 : [INFO] - Closing the Kafka producer with 0 secs timeout.
+2019-11-19 00:56:51,055 : [INFO] - Proceeding to force close the producer since pending requests could not be completed within timeout 0.
+2019-11-19 00:56:51,055 : [INFO] - <BrokerConnection node_id=0 host=rohit-X406UAR/127.0.1.1 port=9092>: Closing connection. 
+2019-11-19 00:56:51,057 : [INFO] - Received command c on object id p4
+2019-11-19 00:56:51,058 : [INFO] - Received command c on object id p6
+2019-11-19 00:56:51,965 : [INFO] - Bootstrapping cluster metadata from [('localhost', 9092, <AddressFamily.AF_UNSPEC: 0>)]
+2019-11-19 00:56:51,966 : [INFO] - <BrokerConnection node_id=bootstrap host=localhost/127.0.0.1 port=9092>: connecting to 127.0.0.1:9092
+2019-11-19 00:56:51,969 : [INFO] - Bootstrap succeeded: found 1 brokers and 5 topics.
+2019-11-19 00:56:51,969 : [INFO] - <BrokerConnection node_id=bootstrap host=localhost/127.0.0.1 port=9092>: Closing connection. 
+2019-11-19 00:56:51,969 : [INFO] - <BrokerConnection node_id=0 host=rohit-X406UAR/127.0.1.1 port=9092>: connecting to 127.0.1.1:9092
+2019-11-19 00:56:52,075 : [INFO] - Broker version identifed as 0.10.0
+2019-11-19 00:56:52,075 : [INFO] - Set configuration api_version=(0, 10, 0) to skip auto check_version requests on startup
+2019-11-19 00:56:52,078 : [INFO] - Closing the Kafka producer with 0 secs timeout.
+2019-11-19 00:56:52,078 : [INFO] - Proceeding to force close the producer since pending requests could not be completed within timeout 0.
+2019-11-19 00:56:52,079 : [INFO] - <BrokerConnection node_id=0 host=rohit-X406UAR/127.0.1.1 port=9092>: Closing connection. 
+2019-11-19 00:56:52,080 : [INFO] - Received command c on object id p6
+2019-11-19 00:57:25,801 : [INFO] - Starting Spark Streaming Context on Localhost
+2019-11-19 00:57:26,928 : [INFO] - Callback Server Starting
+2019-11-19 00:57:26,928 : [INFO] - Socket listening on ('127.0.0.1', 39155)
+2019-11-19 00:57:26,987 : [INFO] - Spark Streaming Context on localhost started
+2019-11-19 00:57:26,987 : [INFO] - Attempting to connect to Kafka Broker on Topic: mysimbdp on broker: localhost:9092
+2019-11-19 00:57:27,314 : [INFO] - Successfully connected to Kafka Broker on Topic: mysimbdp on broker: localhost:9092
+2019-11-19 00:57:27,328 : [INFO] - Starting analytics!
+2019-11-19 00:57:30,070 : [INFO] - Callback Connection ready to receive messages
+2019-11-19 00:57:30,070 : [INFO] - Received command c on object id p1
+2019-11-19 00:57:30,100 : [INFO] - Received command c on object id p1
+2019-11-19 00:57:30,100 : [INFO] - Received command c on object id p2
+2019-11-19 00:57:30,112 : [INFO] - Received command c on object id p2
+2019-11-19 00:57:30,112 : [INFO] - Received command c on object id p3
+2019-11-19 00:57:30,123 : [INFO] - Received command c on object id p3
+2019-11-19 00:57:30,134 : [INFO] - Received command c on object id p4
+2019-11-19 00:57:30,135 : [INFO] - Bootstrapping cluster metadata from [('localhost', 9092, <AddressFamily.AF_UNSPEC: 0>)]
+2019-11-19 00:57:30,136 : [INFO] - <BrokerConnection node_id=bootstrap host=localhost/127.0.0.1 port=9092>: connecting to 127.0.0.1:9092
+2019-11-19 00:57:30,139 : [INFO] - Bootstrap succeeded: found 1 brokers and 5 topics.
+2019-11-19 00:57:30,140 : [INFO] - <BrokerConnection node_id=bootstrap host=localhost/127.0.0.1 port=9092>: Closing connection. 
+2019-11-19 00:57:30,140 : [INFO] - <BrokerConnection node_id=0 host=rohit-X406UAR/127.0.1.1 port=9092>: connecting to 127.0.1.1:9092
+2019-11-19 00:57:30,245 : [INFO] - Broker version identifed as 0.10.0
+2019-11-19 00:57:30,245 : [INFO] - Set configuration api_version=(0, 10, 0) to skip auto check_version requests on startup
+2019-11-19 00:57:30,251 : [INFO] - Closing the Kafka producer with 0 secs timeout.
+2019-11-19 00:57:30,251 : [INFO] - Proceeding to force close the producer since pending requests could not be completed within timeout 0.
+2019-11-19 00:57:30,252 : [INFO] - <BrokerConnection node_id=0 host=rohit-X406UAR/127.0.1.1 port=9092>: Closing connection. 
+2019-11-19 00:57:30,254 : [INFO] - Received command c on object id p4
+2019-11-19 00:58:02,963 : [INFO] - Starting Spark Streaming Context on Localhost
+2019-11-19 00:58:04,056 : [INFO] - Callback Server Starting
+2019-11-19 00:58:04,056 : [INFO] - Socket listening on ('127.0.0.1', 46241)
+2019-11-19 00:58:04,103 : [INFO] - Spark Streaming Context on localhost started
+2019-11-19 00:58:04,103 : [INFO] - Attempting to connect to Kafka Broker on Topic: mysimbdp on broker: localhost:9092
+2019-11-19 00:58:04,443 : [INFO] - Successfully connected to Kafka Broker on Topic: mysimbdp on broker: localhost:9092
+2019-11-19 00:58:04,455 : [INFO] - Starting analytics!
+2019-11-19 00:58:10,058 : [INFO] - Callback Connection ready to receive messages
+2019-11-19 00:58:10,059 : [INFO] - Received command c on object id p1
+2019-11-19 00:58:10,086 : [INFO] - Received command c on object id p1
+2019-11-19 00:58:10,087 : [INFO] - Received command c on object id p2
+2019-11-19 00:58:10,096 : [INFO] - Received command c on object id p2
+2019-11-19 00:58:10,096 : [INFO] - Received command c on object id p3
+2019-11-19 00:58:10,105 : [INFO] - Received command c on object id p3
+2019-11-19 00:58:10,114 : [INFO] - Received command c on object id p4
+2019-11-19 00:58:11,885 : [INFO] - Bootstrapping cluster metadata from [('localhost', 9092, <AddressFamily.AF_UNSPEC: 0>)]
+2019-11-19 00:58:11,886 : [INFO] - <BrokerConnection node_id=bootstrap host=localhost/127.0.0.1 port=9092>: connecting to 127.0.0.1:9092
+2019-11-19 00:58:11,891 : [INFO] - Bootstrap succeeded: found 1 brokers and 5 topics.
+2019-11-19 00:58:11,891 : [INFO] - <BrokerConnection node_id=bootstrap host=localhost/127.0.0.1 port=9092>: Closing connection. 
+2019-11-19 00:58:11,892 : [INFO] - <BrokerConnection node_id=0 host=rohit-X406UAR/127.0.1.1 port=9092>: connecting to 127.0.1.1:9092
+2019-11-19 00:58:11,994 : [INFO] - Broker version identifed as 0.10.0
+2019-11-19 00:58:11,995 : [INFO] - Set configuration api_version=(0, 10, 0) to skip auto check_version requests on startup
+2019-11-19 00:58:11,996 : [INFO] - Closing the Kafka producer with 0 secs timeout.
+2019-11-19 00:58:11,996 : [INFO] - Proceeding to force close the producer since pending requests could not be completed within timeout 0.
+2019-11-19 00:58:11,997 : [INFO] - <BrokerConnection node_id=0 host=rohit-X406UAR/127.0.1.1 port=9092>: Closing connection. 
+2019-11-19 00:58:11,997 : [INFO] - Received command c on object id p4
+2019-11-19 00:58:20,022 : [INFO] - Received command c on object id p1
+2019-11-19 00:58:20,032 : [INFO] - Received command c on object id p1
+2019-11-19 00:58:20,032 : [INFO] - Received command c on object id p2
+2019-11-19 00:58:20,041 : [INFO] - Received command c on object id p2
+2019-11-19 00:58:20,041 : [INFO] - Received command c on object id p3
+2019-11-19 00:58:20,051 : [INFO] - Received command c on object id p3
+2019-11-19 00:58:20,052 : [INFO] - Received command c on object id p4
+2019-11-19 00:58:20,996 : [INFO] - Bootstrapping cluster metadata from [('localhost', 9092, <AddressFamily.AF_UNSPEC: 0>)]
+2019-11-19 00:58:20,999 : [INFO] - <BrokerConnection node_id=bootstrap host=localhost/127.0.0.1 port=9092>: connecting to 127.0.0.1:9092
+2019-11-19 00:58:21,001 : [INFO] - Bootstrap succeeded: found 1 brokers and 5 topics.
+2019-11-19 00:58:21,001 : [INFO] - <BrokerConnection node_id=bootstrap host=localhost/127.0.0.1 port=9092>: Closing connection. 
+2019-11-19 00:58:21,002 : [INFO] - <BrokerConnection node_id=0 host=rohit-X406UAR/127.0.1.1 port=9092>: connecting to 127.0.1.1:9092
+2019-11-19 00:58:21,104 : [INFO] - Broker version identifed as 0.10.0
+2019-11-19 00:58:21,104 : [INFO] - Set configuration api_version=(0, 10, 0) to skip auto check_version requests on startup
+2019-11-19 00:58:21,140 : [INFO] - Closing the Kafka producer with 0 secs timeout.
+2019-11-19 00:58:21,140 : [INFO] - Proceeding to force close the producer since pending requests could not be completed within timeout 0.
+2019-11-19 00:58:21,141 : [INFO] - <BrokerConnection node_id=0 host=rohit-X406UAR/127.0.1.1 port=9092>: Closing connection. 
+2019-11-19 00:58:21,141 : [INFO] - Received command c on object id p4
+2019-11-19 00:58:30,016 : [INFO] - Received command c on object id p1
+2019-11-19 00:58:30,024 : [INFO] - Received command c on object id p1
+2019-11-19 00:58:30,025 : [INFO] - Received command c on object id p2
+2019-11-19 00:58:30,033 : [INFO] - Received command c on object id p2
+2019-11-19 00:58:30,033 : [INFO] - Received command c on object id p3
+2019-11-19 00:58:30,041 : [INFO] - Received command c on object id p3
+2019-11-19 00:58:30,042 : [INFO] - Received command c on object id p4
+2019-11-19 00:58:30,802 : [INFO] - Bootstrapping cluster metadata from [('localhost', 9092, <AddressFamily.AF_UNSPEC: 0>)]
+2019-11-19 00:58:30,803 : [INFO] - <BrokerConnection node_id=bootstrap host=localhost/127.0.0.1 port=9092>: connecting to 127.0.0.1:9092
+2019-11-19 00:58:30,805 : [INFO] - Bootstrap succeeded: found 1 brokers and 5 topics.
+2019-11-19 00:58:30,806 : [INFO] - <BrokerConnection node_id=bootstrap host=localhost/127.0.0.1 port=9092>: Closing connection. 
+2019-11-19 00:58:30,806 : [INFO] - <BrokerConnection node_id=0 host=rohit-X406UAR/127.0.1.1 port=9092>: connecting to 127.0.1.1:9092
+2019-11-19 00:58:30,911 : [INFO] - Broker version identifed as 0.10.0
+2019-11-19 00:58:30,912 : [INFO] - Set configuration api_version=(0, 10, 0) to skip auto check_version requests on startup
+2019-11-19 00:58:31,215 : [INFO] - Closing the Kafka producer with 0 secs timeout.
+2019-11-19 00:58:31,215 : [INFO] - Proceeding to force close the producer since pending requests could not be completed within timeout 0.
+2019-11-19 00:58:31,216 : [INFO] - <BrokerConnection node_id=0 host=rohit-X406UAR/127.0.1.1 port=9092>: Closing connection. 
+2019-11-19 00:58:31,217 : [INFO] - Received command c on object id p4
+2019-11-19 01:05:06,101 : [INFO] - Starting Spark Streaming Context on Localhost
+2019-11-19 01:05:07,328 : [INFO] - Callback Server Starting
+2019-11-19 01:05:07,329 : [INFO] - Socket listening on ('127.0.0.1', 46773)
+2019-11-19 01:05:07,382 : [INFO] - Spark Streaming Context on localhost started
+2019-11-19 01:05:07,382 : [INFO] - Attempting to connect to Kafka Broker on Topic: mysimbdp on broker: localhost:9092
+2019-11-19 01:05:07,758 : [INFO] - Successfully connected to Kafka Broker on Topic: mysimbdp on broker: localhost:9092
+2019-11-19 01:05:07,773 : [INFO] - Starting analytics!
+2019-11-19 01:05:10,094 : [INFO] - Callback Connection ready to receive messages
+2019-11-19 01:05:10,094 : [INFO] - Received command c on object id p1
+2019-11-19 01:05:10,124 : [INFO] - Received command c on object id p1
+2019-11-19 01:05:10,124 : [INFO] - Received command c on object id p2
+2019-11-19 01:05:10,133 : [INFO] - Received command c on object id p2
+2019-11-19 01:05:10,133 : [INFO] - Received command c on object id p3
+2019-11-19 01:05:10,142 : [INFO] - Received command c on object id p3
+2019-11-19 01:05:10,151 : [INFO] - Received command c on object id p4
+2019-11-19 01:05:12,056 : [INFO] - Received command c on object id p4
+2019-11-19 01:05:48,571 : [INFO] - Starting Spark Streaming Context on Localhost
+2019-11-19 01:05:49,829 : [INFO] - Callback Server Starting
+2019-11-19 01:05:49,829 : [INFO] - Socket listening on ('127.0.0.1', 40495)
+2019-11-19 01:05:49,888 : [INFO] - Spark Streaming Context on localhost started
+2019-11-19 01:05:49,888 : [INFO] - Attempting to connect to Kafka Broker on Topic: mysimbdp on broker: localhost:9092
+2019-11-19 01:05:50,261 : [INFO] - Successfully connected to Kafka Broker on Topic: mysimbdp on broker: localhost:9092
+2019-11-19 01:05:50,274 : [INFO] - Starting analytics!
+2019-11-19 01:06:00,093 : [INFO] - Callback Connection ready to receive messages
+2019-11-19 01:06:00,093 : [INFO] - Received command c on object id p1
+2019-11-19 01:06:00,121 : [INFO] - Received command c on object id p1
+2019-11-19 01:06:00,122 : [INFO] - Received command c on object id p2
+2019-11-19 01:06:00,131 : [INFO] - Received command c on object id p2
+2019-11-19 01:06:00,131 : [INFO] - Received command c on object id p3
+2019-11-19 01:06:00,140 : [INFO] - Received command c on object id p3
+2019-11-19 01:06:00,150 : [INFO] - Received command c on object id p4
+2019-11-19 01:06:01,926 : [INFO] - Received command c on object id p4
+2019-11-19 01:06:10,033 : [INFO] - Received command c on object id p1
+2019-11-19 01:06:10,049 : [INFO] - Received command c on object id p1
+2019-11-19 01:06:10,049 : [INFO] - Received command c on object id p2
+2019-11-19 01:06:10,058 : [INFO] - Received command c on object id p2
+2019-11-19 01:06:10,059 : [INFO] - Received command c on object id p3
+2019-11-19 01:06:10,068 : [INFO] - Received command c on object id p3
+2019-11-19 01:06:10,069 : [INFO] - Received command c on object id p4
+2019-11-19 01:06:11,097 : [INFO] - Received command c on object id p4
+2019-11-19 01:07:32,524 : [INFO] - Starting Spark Streaming Context on Localhost
+2019-11-19 01:07:33,695 : [INFO] - Callback Server Starting
+2019-11-19 01:07:33,696 : [INFO] - Socket listening on ('127.0.0.1', 34313)
+2019-11-19 01:07:33,743 : [INFO] - Spark Streaming Context on localhost started
+2019-11-19 01:07:33,743 : [INFO] - Attempting to connect to Kafka Broker on Topic: mysimbdp on broker: localhost:9092
+2019-11-19 01:07:34,109 : [INFO] - Successfully connected to Kafka Broker on Topic: mysimbdp on broker: localhost:9092
+2019-11-19 01:07:34,123 : [INFO] - Starting analytics!
+2019-11-19 01:07:40,096 : [INFO] - Callback Connection ready to receive messages
+2019-11-19 01:07:40,097 : [INFO] - Received command c on object id p1
+2019-11-19 01:07:40,124 : [INFO] - Received command c on object id p1
+2019-11-19 01:07:40,125 : [INFO] - Received command c on object id p2
+2019-11-19 01:07:40,138 : [INFO] - Received command c on object id p2
+2019-11-19 01:07:40,138 : [INFO] - Received command c on object id p3
+2019-11-19 01:07:40,147 : [INFO] - Received command c on object id p3
+2019-11-19 01:07:40,157 : [INFO] - Received command c on object id p4
+2019-11-19 01:07:41,970 : [INFO] - Received command c on object id p4
+2019-11-19 01:10:24,189 : [INFO] - Starting Spark Streaming Context on Localhost
+2019-11-19 01:10:25,429 : [INFO] - Callback Server Starting
+2019-11-19 01:10:25,429 : [INFO] - Socket listening on ('127.0.0.1', 42693)
+2019-11-19 01:10:25,486 : [INFO] - Spark Streaming Context on localhost started
+2019-11-19 01:10:25,486 : [INFO] - Attempting to connect to Kafka Broker on Topic: mysimbdp on broker: localhost:9092
+2019-11-19 01:10:25,822 : [INFO] - Successfully connected to Kafka Broker on Topic: mysimbdp on broker: localhost:9092
+2019-11-19 01:10:25,834 : [INFO] - Starting analytics!
+2019-11-19 01:10:30,061 : [INFO] - Callback Connection ready to receive messages
+2019-11-19 01:10:30,062 : [INFO] - Received command c on object id p1
+2019-11-19 01:10:30,088 : [INFO] - Received command c on object id p1
+2019-11-19 01:10:30,088 : [INFO] - Received command c on object id p2
+2019-11-19 01:10:30,098 : [INFO] - Received command c on object id p2
+2019-11-19 01:10:30,098 : [INFO] - Received command c on object id p3
+2019-11-19 01:10:30,108 : [INFO] - Received command c on object id p3
+2019-11-19 01:10:30,116 : [INFO] - Received command c on object id p4
+2019-11-19 01:10:31,901 : [INFO] - Received command c on object id p4
+2019-11-19 01:10:40,015 : [INFO] - Received command c on object id p1
+2019-11-19 01:10:40,023 : [INFO] - Received command c on object id p1
+2019-11-19 01:10:40,023 : [INFO] - Received command c on object id p2
+2019-11-19 01:10:40,031 : [INFO] - Received command c on object id p2
+2019-11-19 01:10:40,032 : [INFO] - Received command c on object id p3
+2019-11-19 01:10:40,039 : [INFO] - Received command c on object id p3
+2019-11-19 01:10:40,040 : [INFO] - Received command c on object id p4
+2019-11-19 01:10:40,968 : [INFO] - Received command c on object id p4
+2019-11-19 01:11:25,753 : [INFO] - Starting Spark Streaming Context on Localhost
+2019-11-19 01:11:26,977 : [INFO] - Callback Server Starting
+2019-11-19 01:11:26,977 : [INFO] - Socket listening on ('127.0.0.1', 43805)
+2019-11-19 01:11:27,026 : [INFO] - Spark Streaming Context on localhost started
+2019-11-19 01:11:27,026 : [INFO] - Attempting to connect to Kafka Broker on Topic: mysimbdp on broker: localhost:9092
+2019-11-19 01:11:27,420 : [INFO] - Successfully connected to Kafka Broker on Topic: mysimbdp on broker: localhost:9092
+2019-11-19 01:11:27,435 : [INFO] - Starting analytics!
+2019-11-19 01:11:30,064 : [INFO] - Callback Connection ready to receive messages
+2019-11-19 01:11:30,064 : [INFO] - Received command c on object id p1
+2019-11-19 01:11:30,091 : [INFO] - Received command c on object id p1
+2019-11-19 01:11:30,092 : [INFO] - Received command c on object id p2
+2019-11-19 01:11:30,101 : [INFO] - Received command c on object id p2
+2019-11-19 01:11:30,102 : [INFO] - Received command c on object id p3
+2019-11-19 01:11:30,109 : [INFO] - Received command c on object id p3
+2019-11-19 01:11:30,117 : [INFO] - Received command c on object id p4
+2019-11-19 01:11:31,916 : [INFO] - Received command c on object id p4
+2019-11-19 01:11:40,012 : [INFO] - Received command c on object id p1
+2019-11-19 01:11:40,020 : [INFO] - Received command c on object id p1
+2019-11-19 01:11:40,020 : [INFO] - Received command c on object id p2
+2019-11-19 01:11:40,027 : [INFO] - Received command c on object id p2
+2019-11-19 01:11:40,028 : [INFO] - Received command c on object id p3
+2019-11-19 01:11:40,035 : [INFO] - Received command c on object id p3
+2019-11-19 01:11:40,037 : [INFO] - Received command c on object id p4
+2019-11-19 01:11:40,934 : [INFO] - Received command c on object id p4

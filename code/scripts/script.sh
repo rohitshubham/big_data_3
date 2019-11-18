@@ -4,7 +4,7 @@
 export SPARK_HOME=~/spark-2.4.4-bin-hadoop2.7
 export PYSPARK_PYTHON=python3
 export PATH=$SPARK_HOME/bin:$PATH
-JAVA_HOME=/usr/lib/jvm/java-1.11.0-openjdk-amd64
+JAVA_HOME=/usr/lib/jvm/java-8-openjdk-amd64
 PATH=$PATH:$HOME/bin:$JAVA_HOME/bin
 export JAVA_HOME
 export JAVA_HOME
