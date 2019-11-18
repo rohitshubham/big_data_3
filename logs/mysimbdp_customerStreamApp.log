@@ -1,0 +1,164 @@
+2019-11-18 21:00:59,164 : [INFO] - Callback Server Starting
+2019-11-18 21:00:59,165 : [INFO] - Socket listening on ('127.0.0.1', 38317)
+2019-11-18 21:15:15,115 : [INFO] - Callback Server Starting
+2019-11-18 21:15:15,115 : [INFO] - Socket listening on ('127.0.0.1', 37479)
+2019-11-18 21:20:49,500 : [INFO] - Callback Server Starting
+2019-11-18 21:20:49,501 : [INFO] - Socket listening on ('127.0.0.1', 33671)
+2019-11-18 21:20:57,351 : [INFO] - Callback Server Starting
+2019-11-18 21:20:57,351 : [INFO] - Socket listening on ('127.0.0.1', 46735)
+2019-11-18 21:23:58,796 : [INFO] - Callback Server Starting
+2019-11-18 21:23:58,796 : [INFO] - Socket listening on ('127.0.0.1', 46511)
+2019-11-18 21:24:59,088 : [INFO] - Callback Server Starting
+2019-11-18 21:24:59,088 : [INFO] - Socket listening on ('127.0.0.1', 44053)
+2019-11-18 21:27:14,810 : [INFO] - Callback Server Starting
+2019-11-18 21:27:14,811 : [INFO] - Socket listening on ('127.0.0.1', 40969)
+2019-11-18 21:27:20,067 : [INFO] - Callback Connection ready to receive messages
+2019-11-18 21:27:20,067 : [INFO] - Received command c on object id p1
+2019-11-18 21:27:20,093 : [INFO] - Received command c on object id p1
+2019-11-18 21:27:20,094 : [INFO] - Received command c on object id p2
+2019-11-18 21:27:20,102 : [INFO] - Received command c on object id p2
+2019-11-18 21:27:20,103 : [INFO] - Received command c on object id p3
+2019-11-18 21:27:20,137 : [INFO] - Received command c on object id p3
+2019-11-18 21:27:20,145 : [INFO] - Received command c on object id p4
+2019-11-18 21:27:21,560 : [INFO] - Received command c on object id p4
+2019-11-18 21:27:25,005 : [INFO] - Received command c on object id p1
+2019-11-18 21:27:25,013 : [INFO] - Received command c on object id p1
+2019-11-18 21:27:25,013 : [INFO] - Received command c on object id p2
+2019-11-18 21:27:25,019 : [INFO] - Received command c on object id p2
+2019-11-18 21:27:25,020 : [INFO] - Received command c on object id p3
+2019-11-18 21:27:25,040 : [INFO] - Received command c on object id p3
+2019-11-18 21:27:25,041 : [INFO] - Received command c on object id p4
+2019-11-18 21:27:25,457 : [INFO] - Received command c on object id p4
+2019-11-18 21:27:30,012 : [INFO] - Received command c on object id p1
+2019-11-18 21:27:30,022 : [INFO] - Received command c on object id p1
+2019-11-18 21:27:30,022 : [INFO] - Received command c on object id p2
+2019-11-18 21:27:30,031 : [INFO] - Received command c on object id p2
+2019-11-18 21:27:30,032 : [INFO] - Received command c on object id p3
+2019-11-18 21:27:30,056 : [INFO] - Received command c on object id p3
+2019-11-18 21:27:30,057 : [INFO] - Received command c on object id p4
+2019-11-18 21:27:30,438 : [INFO] - Received command c on object id p4
+2019-11-18 21:30:35,015 : [INFO] - Callback Server Starting
+2019-11-18 21:30:35,015 : [INFO] - Socket listening on ('127.0.0.1', 39133)
+2019-11-18 21:35:01,021 : [INFO] - Starting Spark Streaming Context on Localhost
+2019-11-18 21:35:01,964 : [INFO] - Callback Server Starting
+2019-11-18 21:35:01,965 : [INFO] - Socket listening on ('127.0.0.1', 40017)
+2019-11-18 21:35:02,011 : [INFO] - Spark Streaming Context on localhost started
+2019-11-18 21:35:02,011 : [INFO] - Attempting to connect to Kafka Broker on Topic: mysimbdp on broker: localhost:9092
+2019-11-18 21:35:02,313 : [INFO] - Successfully connected to Kafka Broker on Topic: mysimbdp on broker: localhost:9092
+2019-11-18 21:35:02,324 : [INFO] - Starting analytics!
+2019-11-18 21:35:02,394 : [INFO] - Some batch complete!
+2019-11-18 21:35:05,060 : [INFO] - Callback Connection ready to receive messages
+2019-11-18 21:35:05,060 : [INFO] - Received command c on object id p1
+2019-11-18 21:35:05,086 : [INFO] - Received command c on object id p1
+2019-11-18 21:35:05,087 : [INFO] - Received command c on object id p2
+2019-11-18 21:35:05,096 : [INFO] - Received command c on object id p2
+2019-11-18 21:35:05,097 : [INFO] - Received command c on object id p3
+2019-11-18 21:35:05,131 : [INFO] - Received command c on object id p3
+2019-11-18 21:35:05,138 : [INFO] - Received command c on object id p4
+2019-11-18 21:35:07,317 : [INFO] - Received command c on object id p4
+2019-11-18 21:35:10,017 : [INFO] - Received command c on object id p1
+2019-11-18 21:35:10,026 : [INFO] - Received command c on object id p1
+2019-11-18 21:35:10,026 : [INFO] - Received command c on object id p2
+2019-11-18 21:35:10,033 : [INFO] - Received command c on object id p2
+2019-11-18 21:35:10,033 : [INFO] - Received command c on object id p3
+2019-11-18 21:35:10,056 : [INFO] - Received command c on object id p3
+2019-11-18 21:35:10,057 : [INFO] - Received command c on object id p4
+2019-11-18 21:35:11,132 : [INFO] - Received command c on object id p4
+2019-11-18 21:35:15,018 : [INFO] - Received command c on object id p1
+2019-11-18 21:35:15,026 : [INFO] - Received command c on object id p1
+2019-11-18 21:35:15,027 : [INFO] - Received command c on object id p2
+2019-11-18 21:35:15,035 : [INFO] - Received command c on object id p2
+2019-11-18 21:35:15,035 : [INFO] - Received command c on object id p3
+2019-11-18 21:35:15,057 : [INFO] - Received command c on object id p3
+2019-11-18 21:35:15,058 : [INFO] - Received command c on object id p4
+2019-11-18 21:35:16,066 : [INFO] - Received command c on object id p4
+2019-11-18 21:35:20,017 : [INFO] - Received command c on object id p1
+2019-11-18 21:35:20,025 : [INFO] - Received command c on object id p1
+2019-11-18 21:35:20,025 : [INFO] - Received command c on object id p2
+2019-11-18 21:35:20,031 : [INFO] - Received command c on object id p2
+2019-11-18 21:35:20,031 : [INFO] - Received command c on object id p3
+2019-11-18 21:35:20,054 : [INFO] - Received command c on object id p3
+2019-11-18 21:35:20,056 : [INFO] - Received command c on object id p4
+2019-11-18 21:35:21,042 : [INFO] - Received command c on object id p4
+2019-11-18 21:39:43,557 : [INFO] - Starting Spark Streaming Context on Localhost
+2019-11-18 21:39:44,656 : [INFO] - Callback Server Starting
+2019-11-18 21:39:44,657 : [INFO] - Socket listening on ('127.0.0.1', 46649)
+2019-11-18 21:39:44,703 : [INFO] - Spark Streaming Context on localhost started
+2019-11-18 21:39:44,703 : [INFO] - Attempting to connect to Kafka Broker on Topic: mysimbdp on broker: localhost:9092
+2019-11-18 21:39:45,066 : [INFO] - Successfully connected to Kafka Broker on Topic: mysimbdp on broker: localhost:9092
+2019-11-18 21:39:45,079 : [INFO] - Starting analytics!
+2019-11-18 21:39:45,153 : [INFO] - Some batch complete!
+2019-11-18 21:39:50,092 : [INFO] - Callback Connection ready to receive messages
+2019-11-18 21:39:50,092 : [INFO] - Received command c on object id p1
+2019-11-18 21:39:50,115 : [INFO] - Received command c on object id p1
+2019-11-18 21:39:50,116 : [INFO] - Received command c on object id p2
+2019-11-18 21:39:50,124 : [INFO] - Received command c on object id p2
+2019-11-18 21:39:50,124 : [INFO] - Received command c on object id p3
+2019-11-18 21:39:50,158 : [INFO] - Received command c on object id p3
+2019-11-18 21:39:50,166 : [INFO] - Received command c on object id p4
+2019-11-18 21:39:52,719 : [INFO] - Received command c on object id p4
+2019-11-18 21:39:55,031 : [INFO] - Received command c on object id p1
+2019-11-18 21:39:55,057 : [INFO] - Received command c on object id p1
+2019-11-18 21:39:55,058 : [INFO] - Received command c on object id p2
+2019-11-18 21:39:55,067 : [INFO] - Received command c on object id p2
+2019-11-18 21:39:55,067 : [INFO] - Received command c on object id p3
+2019-11-18 21:39:55,103 : [INFO] - Received command c on object id p3
+2019-11-18 21:39:55,105 : [INFO] - Received command c on object id p4
+2019-11-18 21:39:56,432 : [INFO] - Received command c on object id p4
+2019-11-18 21:40:00,026 : [INFO] - Received command c on object id p1
+2019-11-18 21:40:00,043 : [INFO] - Received command c on object id p1
+2019-11-18 21:40:00,044 : [INFO] - Received command c on object id p2
+2019-11-18 21:40:00,054 : [INFO] - Received command c on object id p2
+2019-11-18 21:40:00,054 : [INFO] - Received command c on object id p3
+2019-11-18 21:40:00,076 : [INFO] - Received command c on object id p3
+2019-11-18 21:40:00,077 : [INFO] - Received command c on object id p4
+2019-11-18 21:40:01,245 : [INFO] - Received command c on object id p4
+2019-11-18 21:40:05,028 : [INFO] - Received command c on object id p1
+2019-11-18 21:40:05,046 : [INFO] - Received command c on object id p1
+2019-11-18 21:40:05,046 : [INFO] - Received command c on object id p2
+2019-11-18 21:40:05,055 : [INFO] - Received command c on object id p2
+2019-11-18 21:40:05,055 : [INFO] - Received command c on object id p3
+2019-11-18 21:40:05,078 : [INFO] - Received command c on object id p3
+2019-11-18 21:40:05,079 : [INFO] - Received command c on object id p4
+2019-11-18 21:40:06,195 : [INFO] - Received command c on object id p4
+2019-11-18 21:40:10,018 : [INFO] - Received command c on object id p1
+2019-11-18 21:40:10,026 : [INFO] - Received command c on object id p1
+2019-11-18 21:40:10,026 : [INFO] - Received command c on object id p2
+2019-11-18 21:40:10,034 : [INFO] - Received command c on object id p2
+2019-11-18 21:40:10,034 : [INFO] - Received command c on object id p3
+2019-11-18 21:40:10,056 : [INFO] - Received command c on object id p3
+2019-11-18 21:40:10,057 : [INFO] - Received command c on object id p4
+2019-11-18 21:40:11,129 : [INFO] - Received command c on object id p4
+2019-11-18 21:40:49,869 : [INFO] - Starting Spark Streaming Context on Localhost
+2019-11-18 21:40:50,796 : [INFO] - Callback Server Starting
+2019-11-18 21:40:50,796 : [INFO] - Socket listening on ('127.0.0.1', 37671)
+2019-11-18 21:40:50,834 : [INFO] - Spark Streaming Context on localhost started
+2019-11-18 21:40:50,834 : [INFO] - Attempting to connect to Kafka Broker on Topic: mysimbdp on broker: localhost:9092
+2019-11-18 21:40:51,121 : [INFO] - Successfully connected to Kafka Broker on Topic: mysimbdp on broker: localhost:9092
+2019-11-18 21:40:51,132 : [INFO] - Starting analytics!
+2019-11-18 21:40:51,198 : [INFO] - Some batch complete!
+2019-11-18 21:41:00,097 : [INFO] - Callback Connection ready to receive messages
+2019-11-18 21:41:00,098 : [INFO] - Received command c on object id p1
+2019-11-18 21:41:00,122 : [INFO] - Received command c on object id p1
+2019-11-18 21:41:00,122 : [INFO] - Received command c on object id p2
+2019-11-18 21:41:00,133 : [INFO] - Received command c on object id p2
+2019-11-18 21:41:00,133 : [INFO] - Received command c on object id p3
+2019-11-18 21:41:00,174 : [INFO] - Received command c on object id p3
+2019-11-18 21:41:00,182 : [INFO] - Received command c on object id p4
+2019-11-18 21:41:02,117 : [INFO] - Received command c on object id p4
+2019-11-18 21:41:20,031 : [INFO] - Received command c on object id p1
+2019-11-18 21:41:20,060 : [INFO] - Received command c on object id p1
+2019-11-18 21:41:20,060 : [INFO] - Received command c on object id p2
+2019-11-18 21:41:20,080 : [INFO] - Received command c on object id p2
+2019-11-18 21:41:20,080 : [INFO] - Received command c on object id p3
+2019-11-18 21:41:20,121 : [INFO] - Received command c on object id p3
+2019-11-18 21:41:20,123 : [INFO] - Received command c on object id p4
+2019-11-18 21:41:21,244 : [INFO] - Received command c on object id p4
+2019-11-18 21:41:40,015 : [INFO] - Received command c on object id p1
+2019-11-18 21:41:40,024 : [INFO] - Received command c on object id p1
+2019-11-18 21:41:40,025 : [INFO] - Received command c on object id p2
+2019-11-18 21:41:40,031 : [INFO] - Received command c on object id p2
+2019-11-18 21:41:40,031 : [INFO] - Received command c on object id p3
+2019-11-18 21:41:40,049 : [INFO] - Received command c on object id p3
+2019-11-18 21:41:40,050 : [INFO] - Received command c on object id p4
+2019-11-18 21:41:40,931 : [INFO] - Received command c on object id p4
