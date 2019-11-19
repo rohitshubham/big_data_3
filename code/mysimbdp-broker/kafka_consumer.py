@@ -7,7 +7,7 @@ topicName = 'mysimbdp-clientReport'
 print("Starting to listen for messages on topic : " + topicName + ". ")    
 
 consumer = KafkaConsumer(topicName,bootstrap_servers = bootstrap_servers,
-auto_offset_reset = 'earliest')
+auto_offset_reset = 'latest')
 
 print("Successfully connected to kafka consumer process!")
 

@@ -1,48 +1,21 @@
-class ClientHistory:    
+#!/usr/bin/env python3
 
-    def __init__(self, user_id, location, date_time):
-        self.user_id = user_id
-        self.location = location
-        self.date_time = date_time
+import redis
 
-    def get_last_location(self):
-        return self.location
+redis_host = "localhost"
+redis_port = 6379
+redis_password = ""
+   
+r = redis.StrictRedis(host=redis_host, port=redis_port, password=redis_password, decode_responses=True)
 
-    def get_last_time(self):
-        return self.date_time
+def save_client_history(user_id, location, time):
 
-    def get_user_id(self):
-        return self.user_id
+    r.set(user_id, str((location, time)))
 
-    def update_details(self, location, date_time):
-        self.location = location 
-        self.date_time = date_time  
+def get_client_history(user_id):
+    return r.get(user_id)
 
+def does_user_exist(user_id):
+    return r.exists(user_id) != 0
 
-class Client():
-
-    person_list = []
-
-    @staticmethod
-    def add_client(user_id, location, date_time):
-        client = ClientHistory(user_id, location, date_time)
-        Client.person_list.append(client)
-
-    @staticmethod
-    def update_client(user_id, location, date_time):
-        for person in Client.person_list:
-            if person.get_user_id() == user_id:
-                person.update_details(location, date_time)
-                break
-    
-    @staticmethod
-    def get_all_clients():
-        return Client.person_list
-    
-    @staticmethod
-    def client_exists(user_id):
-        for person in Client.person_list:
-            if person.get_user_id() == user_id:
-                return True
-        return False
 
