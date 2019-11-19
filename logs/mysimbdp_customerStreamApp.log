@@ -1375,3 +1375,236 @@
 2019-11-19 01:11:40,035 : [INFO] - Received command c on object id p3
 2019-11-19 01:11:40,037 : [INFO] - Received command c on object id p4
 2019-11-19 01:11:40,934 : [INFO] - Received command c on object id p4
+2019-11-19 17:52:08,964 : [INFO] - Starting Spark Streaming Context on Localhost
+2019-11-19 17:52:10,302 : [INFO] - Callback Server Starting
+2019-11-19 17:52:10,302 : [INFO] - Socket listening on ('127.0.0.1', 38479)
+2019-11-19 17:52:10,368 : [INFO] - Spark Streaming Context on localhost started
+2019-11-19 17:52:10,368 : [INFO] - Attempting to connect to Kafka Broker on Topic: mysimbdp on broker: localhost:9092
+2019-11-19 17:52:10,706 : [INFO] - Successfully connected to Kafka Broker on Topic: mysimbdp on broker: localhost:9092
+2019-11-19 17:52:10,716 : [INFO] - Starting analytics!
+2019-11-19 17:52:20,101 : [INFO] - Callback Connection ready to receive messages
+2019-11-19 17:52:20,101 : [INFO] - Received command c on object id p1
+2019-11-19 17:52:20,127 : [INFO] - Received command c on object id p1
+2019-11-19 17:52:20,128 : [INFO] - Received command c on object id p2
+2019-11-19 17:52:20,137 : [INFO] - Received command c on object id p2
+2019-11-19 17:52:20,138 : [INFO] - Received command c on object id p3
+2019-11-19 17:52:20,148 : [INFO] - Received command c on object id p3
+2019-11-19 17:52:20,157 : [INFO] - Received command c on object id p4
+2019-11-19 17:52:21,933 : [INFO] - Received command c on object id p4
+2019-11-19 17:52:30,022 : [INFO] - Received command c on object id p1
+2019-11-19 17:52:30,030 : [INFO] - Received command c on object id p1
+2019-11-19 17:52:30,030 : [INFO] - Received command c on object id p2
+2019-11-19 17:52:30,037 : [INFO] - Received command c on object id p2
+2019-11-19 17:52:30,038 : [INFO] - Received command c on object id p3
+2019-11-19 17:52:30,044 : [INFO] - Received command c on object id p3
+2019-11-19 17:52:30,045 : [INFO] - Received command c on object id p4
+2019-11-19 17:52:31,014 : [INFO] - Received command c on object id p4
+2019-11-19 17:52:40,015 : [INFO] - Received command c on object id p1
+2019-11-19 17:52:40,024 : [INFO] - Received command c on object id p1
+2019-11-19 17:52:40,024 : [INFO] - Received command c on object id p2
+2019-11-19 17:52:40,032 : [INFO] - Received command c on object id p2
+2019-11-19 17:52:40,033 : [INFO] - Received command c on object id p3
+2019-11-19 17:52:40,039 : [INFO] - Received command c on object id p3
+2019-11-19 17:52:40,040 : [INFO] - Received command c on object id p4
+2019-11-19 17:52:40,799 : [INFO] - Received command c on object id p4
+2019-11-19 17:53:31,793 : [INFO] - Starting Spark Streaming Context on Localhost
+2019-11-19 17:53:32,904 : [INFO] - Callback Server Starting
+2019-11-19 17:53:32,904 : [INFO] - Socket listening on ('127.0.0.1', 36475)
+2019-11-19 17:53:32,942 : [INFO] - Spark Streaming Context on localhost started
+2019-11-19 17:53:32,942 : [INFO] - Attempting to connect to Kafka Broker on Topic: mysimbdp on broker: localhost:9092
+2019-11-19 17:53:33,228 : [INFO] - Successfully connected to Kafka Broker on Topic: mysimbdp on broker: localhost:9092
+2019-11-19 17:53:33,239 : [INFO] - Starting analytics!
+2019-11-19 17:53:40,071 : [INFO] - Callback Connection ready to receive messages
+2019-11-19 17:53:40,072 : [INFO] - Received command c on object id p1
+2019-11-19 17:53:40,099 : [INFO] - Received command c on object id p1
+2019-11-19 17:53:40,100 : [INFO] - Received command c on object id p2
+2019-11-19 17:53:40,111 : [INFO] - Received command c on object id p2
+2019-11-19 17:53:40,122 : [INFO] - Received command c on object id p3
+2019-11-19 17:53:41,201 : [INFO] - Received command c on object id p3
+2019-11-19 17:54:10,120 : [INFO] - Starting Spark Streaming Context on Localhost
+2019-11-19 17:54:11,216 : [INFO] - Callback Server Starting
+2019-11-19 17:54:11,217 : [INFO] - Socket listening on ('127.0.0.1', 38347)
+2019-11-19 17:54:11,263 : [INFO] - Spark Streaming Context on localhost started
+2019-11-19 17:54:11,264 : [INFO] - Attempting to connect to Kafka Broker on Topic: mysimbdp on broker: localhost:9092
+2019-11-19 17:54:11,603 : [INFO] - Successfully connected to Kafka Broker on Topic: mysimbdp on broker: localhost:9092
+2019-11-19 17:54:11,613 : [INFO] - Starting analytics!
+2019-11-19 17:54:20,059 : [INFO] - Callback Connection ready to receive messages
+2019-11-19 17:54:20,060 : [INFO] - Received command c on object id p1
+2019-11-19 17:54:20,084 : [INFO] - Received command c on object id p1
+2019-11-19 17:54:20,085 : [INFO] - Received command c on object id p2
+2019-11-19 17:54:20,093 : [INFO] - Received command c on object id p2
+2019-11-19 17:54:20,101 : [INFO] - Received command c on object id p3
+2019-11-19 17:54:21,177 : [INFO] - Received command c on object id p3
+2019-11-19 18:28:48,817 : [INFO] - Starting Spark Streaming Context on Localhost
+2019-11-19 18:28:49,916 : [INFO] - Callback Server Starting
+2019-11-19 18:28:49,916 : [INFO] - Socket listening on ('127.0.0.1', 40139)
+2019-11-19 18:28:49,968 : [INFO] - Spark Streaming Context on localhost started
+2019-11-19 18:28:49,968 : [INFO] - Attempting to connect to Kafka Broker on Topic: mysimbdp on broker: localhost:9092
+2019-11-19 18:28:50,321 : [INFO] - Successfully connected to Kafka Broker on Topic: mysimbdp on broker: localhost:9092
+2019-11-19 18:28:50,332 : [INFO] - Starting analytics!
+2019-11-19 18:29:00,071 : [INFO] - Callback Connection ready to receive messages
+2019-11-19 18:29:00,071 : [INFO] - Received command c on object id p1
+2019-11-19 18:29:00,098 : [INFO] - Received command c on object id p1
+2019-11-19 18:29:00,099 : [INFO] - Received command c on object id p2
+2019-11-19 18:29:00,108 : [INFO] - Received command c on object id p2
+2019-11-19 18:29:00,120 : [INFO] - Received command c on object id p3
+2019-11-19 18:29:01,201 : [INFO] - Received command c on object id p3
+2019-11-19 18:29:18,325 : [INFO] - Starting Spark Streaming Context on Localhost
+2019-11-19 18:29:19,397 : [INFO] - Callback Server Starting
+2019-11-19 18:29:19,397 : [INFO] - Socket listening on ('127.0.0.1', 34573)
+2019-11-19 18:29:19,437 : [INFO] - Spark Streaming Context on localhost started
+2019-11-19 18:29:19,438 : [INFO] - Attempting to connect to Kafka Broker on Topic: mysimbdp on broker: localhost:9092
+2019-11-19 18:29:19,709 : [INFO] - Successfully connected to Kafka Broker on Topic: mysimbdp on broker: localhost:9092
+2019-11-19 18:29:19,718 : [INFO] - Starting analytics!
+2019-11-19 18:29:20,107 : [INFO] - Callback Connection ready to receive messages
+2019-11-19 18:29:20,107 : [INFO] - Received command c on object id p1
+2019-11-19 18:29:20,140 : [INFO] - Received command c on object id p1
+2019-11-19 18:29:20,141 : [INFO] - Received command c on object id p2
+2019-11-19 18:29:20,151 : [INFO] - Received command c on object id p2
+2019-11-19 18:29:20,151 : [INFO] - Received command c on object id p3
+2019-11-19 18:29:20,160 : [INFO] - Received command c on object id p3
+2019-11-19 18:29:20,170 : [INFO] - Received command c on object id p4
+2019-11-19 18:29:22,047 : [INFO] - Received command c on object id p4
+2019-11-19 18:29:30,016 : [INFO] - Received command c on object id p1
+2019-11-19 18:29:30,024 : [INFO] - Received command c on object id p1
+2019-11-19 18:29:30,024 : [INFO] - Received command c on object id p2
+2019-11-19 18:29:30,031 : [INFO] - Received command c on object id p2
+2019-11-19 18:29:30,031 : [INFO] - Received command c on object id p3
+2019-11-19 18:29:30,037 : [INFO] - Received command c on object id p3
+2019-11-19 18:29:30,038 : [INFO] - Received command c on object id p4
+2019-11-19 18:29:30,939 : [INFO] - Received command c on object id p4
+2019-11-19 18:30:29,563 : [INFO] - Starting Spark Streaming Context on Localhost
+2019-11-19 18:30:30,699 : [INFO] - Callback Server Starting
+2019-11-19 18:30:30,699 : [INFO] - Socket listening on ('127.0.0.1', 44513)
+2019-11-19 18:30:30,747 : [INFO] - Spark Streaming Context on localhost started
+2019-11-19 18:30:30,747 : [INFO] - Attempting to connect to Kafka Broker on Topic: mysimbdp on broker: localhost:9092
+2019-11-19 18:30:31,084 : [INFO] - Successfully connected to Kafka Broker on Topic: mysimbdp on broker: localhost:9092
+2019-11-19 18:30:31,084 : [INFO] - Starting analytics!
+2019-11-19 18:30:46,080 : [INFO] - Starting Spark Streaming Context on Localhost
+2019-11-19 18:30:47,218 : [INFO] - Callback Server Starting
+2019-11-19 18:30:47,218 : [INFO] - Socket listening on ('127.0.0.1', 35869)
+2019-11-19 18:30:47,271 : [INFO] - Spark Streaming Context on localhost started
+2019-11-19 18:30:47,271 : [INFO] - Attempting to connect to Kafka Broker on Topic: mysimbdp on broker: localhost:9092
+2019-11-19 18:30:47,598 : [INFO] - Successfully connected to Kafka Broker on Topic: mysimbdp on broker: localhost:9092
+2019-11-19 18:30:47,612 : [INFO] - Starting analytics!
+2019-11-19 18:30:50,061 : [INFO] - Callback Connection ready to receive messages
+2019-11-19 18:30:50,061 : [INFO] - Received command c on object id p1
+2019-11-19 18:30:50,089 : [INFO] - Received command c on object id p1
+2019-11-19 18:30:50,089 : [INFO] - Received command c on object id p2
+2019-11-19 18:30:50,099 : [INFO] - Received command c on object id p2
+2019-11-19 18:30:50,099 : [INFO] - Received command c on object id p3
+2019-11-19 18:30:50,109 : [INFO] - Received command c on object id p3
+2019-11-19 18:30:50,117 : [INFO] - Received command c on object id p4
+2019-11-19 18:30:51,847 : [INFO] - Received command c on object id p4
+2019-11-19 18:31:00,013 : [INFO] - Received command c on object id p1
+2019-11-19 18:31:00,021 : [INFO] - Received command c on object id p1
+2019-11-19 18:31:00,022 : [INFO] - Received command c on object id p2
+2019-11-19 18:31:00,028 : [INFO] - Received command c on object id p2
+2019-11-19 18:31:00,029 : [INFO] - Received command c on object id p3
+2019-11-19 18:31:00,035 : [INFO] - Received command c on object id p3
+2019-11-19 18:31:00,036 : [INFO] - Received command c on object id p4
+2019-11-19 18:31:00,912 : [INFO] - Received command c on object id p4
+2019-11-19 18:32:28,736 : [INFO] - Starting Spark Streaming Context on Localhost
+2019-11-19 18:32:29,883 : [INFO] - Callback Server Starting
+2019-11-19 18:32:29,883 : [INFO] - Socket listening on ('127.0.0.1', 35739)
+2019-11-19 18:32:29,936 : [INFO] - Spark Streaming Context on localhost started
+2019-11-19 18:32:29,936 : [INFO] - Attempting to connect to Kafka Broker on Topic: mysimbdp on broker: localhost:9092
+2019-11-19 18:32:30,295 : [INFO] - Successfully connected to Kafka Broker on Topic: mysimbdp on broker: localhost:9092
+2019-11-19 18:32:30,307 : [INFO] - Starting analytics!
+2019-11-19 18:32:40,061 : [INFO] - Callback Connection ready to receive messages
+2019-11-19 18:32:40,062 : [INFO] - Received command c on object id p1
+2019-11-19 18:32:40,088 : [INFO] - Received command c on object id p1
+2019-11-19 18:32:40,089 : [INFO] - Received command c on object id p2
+2019-11-19 18:32:40,098 : [INFO] - Received command c on object id p2
+2019-11-19 18:32:40,099 : [INFO] - Received command c on object id p3
+2019-11-19 18:32:40,107 : [INFO] - Received command c on object id p3
+2019-11-19 18:32:40,117 : [INFO] - Received command c on object id p4
+2019-11-19 18:32:41,229 : [INFO] - Received command c on object id p4
+2019-11-19 18:33:13,153 : [INFO] - Starting Spark Streaming Context on Localhost
+2019-11-19 18:33:14,330 : [INFO] - Callback Server Starting
+2019-11-19 18:33:14,330 : [INFO] - Socket listening on ('127.0.0.1', 37899)
+2019-11-19 18:33:14,376 : [INFO] - Spark Streaming Context on localhost started
+2019-11-19 18:33:14,376 : [INFO] - Attempting to connect to Kafka Broker on Topic: mysimbdp on broker: localhost:9092
+2019-11-19 18:33:14,713 : [INFO] - Successfully connected to Kafka Broker on Topic: mysimbdp on broker: localhost:9092
+2019-11-19 18:33:14,727 : [INFO] - Starting analytics!
+2019-11-19 18:33:20,069 : [INFO] - Callback Connection ready to receive messages
+2019-11-19 18:33:20,069 : [INFO] - Received command c on object id p1
+2019-11-19 18:33:20,097 : [INFO] - Received command c on object id p1
+2019-11-19 18:33:20,098 : [INFO] - Received command c on object id p2
+2019-11-19 18:33:20,109 : [INFO] - Received command c on object id p2
+2019-11-19 18:33:20,109 : [INFO] - Received command c on object id p3
+2019-11-19 18:33:20,119 : [INFO] - Received command c on object id p3
+2019-11-19 18:33:20,129 : [INFO] - Received command c on object id p4
+2019-11-19 18:33:21,233 : [INFO] - Received command c on object id p4
+2019-11-19 18:34:02,445 : [INFO] - Starting Spark Streaming Context on Localhost
+2019-11-19 18:34:03,499 : [INFO] - Callback Server Starting
+2019-11-19 18:34:03,499 : [INFO] - Socket listening on ('127.0.0.1', 44425)
+2019-11-19 18:34:03,537 : [INFO] - Spark Streaming Context on localhost started
+2019-11-19 18:34:03,537 : [INFO] - Attempting to connect to Kafka Broker on Topic: mysimbdp on broker: localhost:9092
+2019-11-19 18:34:03,792 : [INFO] - Successfully connected to Kafka Broker on Topic: mysimbdp on broker: localhost:9092
+2019-11-19 18:34:03,801 : [INFO] - Starting analytics!
+2019-11-19 18:34:10,090 : [INFO] - Callback Connection ready to receive messages
+2019-11-19 18:34:10,090 : [INFO] - Received command c on object id p1
+2019-11-19 18:34:10,121 : [INFO] - Received command c on object id p1
+2019-11-19 18:34:10,122 : [INFO] - Received command c on object id p2
+2019-11-19 18:34:10,135 : [INFO] - Received command c on object id p2
+2019-11-19 18:34:10,135 : [INFO] - Received command c on object id p3
+2019-11-19 18:34:10,143 : [INFO] - Received command c on object id p3
+2019-11-19 18:34:10,153 : [INFO] - Received command c on object id p4
+2019-11-19 18:34:12,013 : [INFO] - Received command c on object id p4
+2019-11-19 18:34:30,994 : [INFO] - Starting Spark Streaming Context on Localhost
+2019-11-19 18:34:32,062 : [INFO] - Callback Server Starting
+2019-11-19 18:34:32,063 : [INFO] - Socket listening on ('127.0.0.1', 35305)
+2019-11-19 18:34:32,111 : [INFO] - Spark Streaming Context on localhost started
+2019-11-19 18:34:32,111 : [INFO] - Attempting to connect to Kafka Broker on Topic: mysimbdp on broker: localhost:9092
+2019-11-19 18:34:32,470 : [INFO] - Successfully connected to Kafka Broker on Topic: mysimbdp on broker: localhost:9092
+2019-11-19 18:34:32,484 : [INFO] - Starting analytics!
+2019-11-19 18:34:40,062 : [INFO] - Callback Connection ready to receive messages
+2019-11-19 18:34:40,062 : [INFO] - Received command c on object id p1
+2019-11-19 18:34:40,089 : [INFO] - Received command c on object id p1
+2019-11-19 18:34:40,089 : [INFO] - Received command c on object id p2
+2019-11-19 18:34:40,098 : [INFO] - Received command c on object id p2
+2019-11-19 18:34:40,098 : [INFO] - Received command c on object id p3
+2019-11-19 18:34:40,107 : [INFO] - Received command c on object id p3
+2019-11-19 18:34:40,116 : [INFO] - Received command c on object id p4
+2019-11-19 18:34:41,832 : [INFO] - Received command c on object id p4
+2019-11-19 18:35:53,388 : [INFO] - Starting Spark Streaming Context on Localhost
+2019-11-19 18:35:54,467 : [INFO] - Callback Server Starting
+2019-11-19 18:35:54,468 : [INFO] - Socket listening on ('127.0.0.1', 43685)
+2019-11-19 18:35:54,528 : [INFO] - Spark Streaming Context on localhost started
+2019-11-19 18:35:54,528 : [INFO] - Attempting to connect to Kafka Broker on Topic: mysimbdp on broker: localhost:9092
+2019-11-19 18:35:54,887 : [INFO] - Successfully connected to Kafka Broker on Topic: mysimbdp on broker: localhost:9092
+2019-11-19 18:35:54,899 : [INFO] - Starting analytics!
+2019-11-19 18:36:00,069 : [INFO] - Callback Connection ready to receive messages
+2019-11-19 18:36:00,070 : [INFO] - Received command c on object id p1
+2019-11-19 18:36:00,098 : [INFO] - Received command c on object id p1
+2019-11-19 18:36:00,098 : [INFO] - Received command c on object id p2
+2019-11-19 18:36:00,107 : [INFO] - Received command c on object id p2
+2019-11-19 18:36:00,107 : [INFO] - Received command c on object id p3
+2019-11-19 18:36:00,115 : [INFO] - Received command c on object id p3
+2019-11-19 18:36:00,124 : [INFO] - Received command c on object id p4
+2019-11-19 18:36:01,855 : [INFO] - Received command c on object id p4
+2019-11-19 18:36:10,016 : [INFO] - Received command c on object id p1
+2019-11-19 18:36:10,025 : [INFO] - Received command c on object id p1
+2019-11-19 18:36:10,026 : [INFO] - Received command c on object id p2
+2019-11-19 18:36:10,032 : [INFO] - Received command c on object id p2
+2019-11-19 18:36:10,032 : [INFO] - Received command c on object id p3
+2019-11-19 18:36:10,039 : [INFO] - Received command c on object id p3
+2019-11-19 18:36:10,040 : [INFO] - Received command c on object id p4
+2019-11-19 18:36:10,986 : [INFO] - Received command c on object id p4
+2019-11-19 18:37:24,481 : [INFO] - Starting Spark Streaming Context on Localhost
+2019-11-19 18:37:25,686 : [INFO] - Callback Server Starting
+2019-11-19 18:37:25,686 : [INFO] - Socket listening on ('127.0.0.1', 43079)
+2019-11-19 18:37:25,733 : [INFO] - Spark Streaming Context on localhost started
+2019-11-19 18:37:25,733 : [INFO] - Attempting to connect to Kafka Broker on Topic: mysimbdp on broker: localhost:9092
+2019-11-19 18:37:26,063 : [INFO] - Successfully connected to Kafka Broker on Topic: mysimbdp on broker: localhost:9092
+2019-11-19 18:37:26,075 : [INFO] - Starting analytics!
+2019-11-19 18:37:30,063 : [INFO] - Callback Connection ready to receive messages
+2019-11-19 18:37:30,063 : [INFO] - Received command c on object id p1
+2019-11-19 18:37:30,090 : [INFO] - Received command c on object id p1
+2019-11-19 18:37:30,091 : [INFO] - Received command c on object id p2
+2019-11-19 18:37:30,100 : [INFO] - Received command c on object id p2
+2019-11-19 18:37:30,101 : [INFO] - Received command c on object id p3
+2019-11-19 18:37:30,110 : [INFO] - Received command c on object id p3
+2019-11-19 18:37:30,119 : [INFO] - Received command c on object id p4
+2019-11-19 18:37:31,844 : [INFO] - Received command c on object id p4
