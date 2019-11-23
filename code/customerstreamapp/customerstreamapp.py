@@ -15,7 +15,7 @@ topic_report = 'mysimbdp-clientReport'
 broker = "localhost:9092"
 
 #window duration in seconds
-WINDOW_DURATION = 30
+WINDOW_DURATION = 30 * 60 * 60
 
 def GetKafkaProducer():
     return KafkaProducer(bootstrap_servers = [broker])
