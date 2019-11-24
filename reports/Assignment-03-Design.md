@@ -82,7 +82,7 @@ The pseudo-code should run over every message of the RDD in the DStream. Hence, 
 
 3. The client stream application was submitted to the `Spark` platform using the following command:
 
-```
+```javascript
 spark-submit --packages  org.apache.spark:spark-streaming-kafka-0-8-assembly_2.11:2.4.4 ../customerstreamapp/customerstreamapp.py
 ```
 
@@ -150,8 +150,14 @@ The platform for implementation  would still be Apache Spark and we can use `spa
 
 We can see in the figure above, that the Batch Analysis application is listening on `Topic 2` which is being used for metadata transfer. Based on the metadata, we can define a threshold above which we should trigger the Batch Analysis. The batch analysis will then fetch the saved data from coredms and perform the batch Machine learning job.
 
-4. 
+4. To scale up our analysis application, we need to ensure that any of the components involved in our Streaming Analysis application don't become a bottleneck. 
+* __Redis__: We use Redis as a temp key value store for our streaming application. To scale up in memory database we can take two approaches: 1) Horizontal scaling by setting up a Redis Cluster and sharing the data. 2) Vertical scaling by adding more memory to the system.
+* __Level of Parallelism in Data Receiving__: IN Spark Streaming, we can increase the level of parallelism of direct Kafka Streams, this will boost throughput of messages into the system. 
+* __Level of Parallelism in Data Processing__: We can increase the task processing parallelism so that it can leverage the multi-core CPU of the system. 
+* __Improved Serialization and Deserialization__: Use of better libraries like `Kyro` [4] for can improve the performance and help the system scale up much better. Spark allows integration with Kyro for this purpose.
+* Fine tuning the Persistence Level of __DStreams__ can significantly reduce the memory footprint for Spark application. 
 
+5. 
 
 ---
 ### References
@@ -161,3 +167,5 @@ We can see in the figure above, that the Batch Analysis application is listening
 [2] https://spark.apache.org/docs/2.2.0/streaming-programming-guide.html#level-of-parallelism-in-data-receiving
 
 [3] https://spark.apache.org/docs/2.2.0/streaming-programming-guide.html#level-of-parallelism-in-data-processing
+
+[4] https://github.com/EsotericSoftware/kryo
