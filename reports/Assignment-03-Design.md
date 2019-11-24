@@ -98,17 +98,66 @@ We can see that the batches were of 30 seconds each and the ingestion rate was 0
 ![Spark](./IMAGES/spark_1.png)
 * Fig 4: Spark Job processing times
 
-We can see from the figure above, that the job processing time was 2 seconds for the first batch and ~0.8-0.9 sec every subsequent batches.
+We can see from the figure above, that the job processing time was 2 seconds for the first batch and ~0.8-0.9 sec every subsequent batches. Since we are using in-memory database Redis, for fetching the value, the `get` value operation is super-quick and is not an bottleneck to the stream processing application. 
 
 ![Spark](./IMAGES/spark_2.png)
 * Fig 5: Spark Executors
 
-Also the executors were taking 384MB of RAM while running the stream analysis.
- 
+Also the executors were taking 384MB of RAM while running the stream analysis, which is not very high for a stream processing operation.
 
+The results are published into the kafka broker on different topic.
+ 
+4. Error handling in our code is done in two ways to ensure maximum availability of our stream processing application.
+* In case of wrong formatting, or absence of time data in the message stream, we use the current time (`datetime.now`) to process the analysis i.e. we switch from event-time to processing time. This is done under the motivation that our broker provides the data in near-realtime speeds and we can still derive meaningful results from processing time. To check the error rate, in this case, we used some wrong formatting of the date.
+
+* In case, we are not able to handle the error, we log the stack-trace in the file and continue with the execution. We do this to provide maximum stream processing without shutting down the clientStreamApplication in case of unexpected input.
+
+5. Spark allows us to parallelize number of streams when taking input from kafka. We can choose the level of parallelism by creating multiple `DirectKafkaStream` and then unifying them by using Spark's `streaming_context.union()` function [2]. We tested using 3 direct streams :
+
+![Spark](./IMAGES/SPARK_6.png)
+* Fig 6: 3 Direct Streams used for processing job
+
+There wasn't much performance change, in the processing time:
+
+![Spark](./IMAGES/spark_7.png)
+* Fig 7: Processing time for 3 parallelism stream
+
+It went up from 0.9sec per batch for one degree of parallelism to 2 sec per batch on average on 3 degree of parallelism. 
+
+Another level of parallelism Spark allows us to control is the number of parallel tasks in the data processing. It is sent as an argument in the configuration property [3]. Specifying `local[*]` in this property means maximum number of available cores will be detected and automatically used for processing. We have used this option throughout our data processing tests. Hence, our data was being processed on multiple threads automatically.
+
+---
+
+# Part 3
+## Connection
+
+1. To store the results of analytics into `mysimbdp-coredms`, we will subscribe to the same topic that the consumer is subscribed to. This essentially means that when ever the alert is sent to the consumer, a copy of alert is delivered to our final ingestor app that will feed the data into the mysimbdp-coredms. To do this we need to ensure that the `consumer` and `coredms` are subscribed to same topic but belong to different consumer groups of Kafka. (If the belong to same consumer group, only one copy of message will be delivered to either consumer or coredms). 
+
+We illustrate this mechanism in the picture below:
+
+![Diagram](./IMAGES/diag_2.png)
+* Fig 8: Saving into mysimbdp-coredms
+
+We can see that both the CoreDms Ingestor and Alert Receiver are subscribed to the same topic.
+
+2. A sample batch analysis application could be a Machine-Learning Analytics application that runs `Apache Spark MLlibs`. The machine learning application would try to build models and predictions on the health of an elderly person. These types of streaming analysis information could be extremely effective in creating sustainable machine learning models. For example: a sample ML model could predict that people suffering early-grade dementia tend to spend more time in `kitchen` than others. 
+The platform for implementation  would still be Apache Spark and we can use `spark-submit` to submit MLlibs jobs to the batch processing application. The implementation for such a batch processing application could use a window of few days to ensure that we have collated handful of alerts. 
+
+3. To dynamically/intelligently call batch analysis application, we will have to create batch analysis application tool, that will read the metadata of the stream analysis application. This metadata will be relayed via a new topic on Kafka broker and will contain information like frequency of alert, timings of these alerts etc.
+
+![Diagram](./IMAGES/batch.png)
+* Fig 9: Intelligent Batch analysis application
+
+We can see in the figure above, that the Batch Analysis application is listening on `Topic 2` which is being used for metadata transfer. Based on the metadata, we can define a threshold above which we should trigger the Batch Analysis. The batch analysis will then fetch the saved data from coredms and perform the batch Machine learning job.
+
+4. 
 
 
 ---
 ### References
 
 [1] Ellul J, Polycarpou M, Kotsani M; Indoor Localization Dataset; May 7, 2019;  Available at: https://zenodo.org/record/2671590#.XXJahPxRUlU
+
+[2] https://spark.apache.org/docs/2.2.0/streaming-programming-guide.html#level-of-parallelism-in-data-receiving
+
+[3] https://spark.apache.org/docs/2.2.0/streaming-programming-guide.html#level-of-parallelism-in-data-processing

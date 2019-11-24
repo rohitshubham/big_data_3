@@ -2054,3 +2054,231 @@
 2019-11-19 20:50:00,100 : [INFO] - Received command c on object id p3
 2019-11-19 20:50:00,102 : [INFO] - Received command c on object id p4
 2019-11-19 20:50:00,952 : [INFO] - Received command c on object id p4
+2019-11-23 23:20:04,207 : [INFO] - Starting Spark Streaming Context on Localhost
+2019-11-23 23:20:05,494 : [INFO] - Callback Server Starting
+2019-11-23 23:20:05,494 : [INFO] - Socket listening on ('127.0.0.1', 37487)
+2019-11-23 23:20:05,563 : [INFO] - Spark Streaming Context on localhost started
+2019-11-23 23:20:05,563 : [INFO] - Attempting to connect to Kafka Broker on Topic: mysimbdp on broker: localhost:9092
+2019-11-23 23:20:05,996 : [INFO] - Successfully connected to Kafka Broker on Topic: mysimbdp on broker: localhost:9092
+2019-11-23 23:20:06,005 : [INFO] - Starting analytics!
+2019-11-23 23:20:49,346 : [INFO] - Starting Spark Streaming Context on Localhost
+2019-11-23 23:20:50,379 : [INFO] - Callback Server Starting
+2019-11-23 23:20:50,379 : [INFO] - Socket listening on ('127.0.0.1', 44721)
+2019-11-23 23:20:50,427 : [INFO] - Spark Streaming Context on localhost started
+2019-11-23 23:20:50,427 : [INFO] - Attempting to connect to Kafka Broker on Topic: mysimbdp on broker: localhost:9092
+2019-11-23 23:20:50,825 : [INFO] - Successfully connected to Kafka Broker on Topic: mysimbdp on broker: localhost:9092
+2019-11-23 23:20:50,836 : [INFO] - Starting analytics!
+2019-11-23 23:21:00,095 : [INFO] - Callback Connection ready to receive messages
+2019-11-23 23:21:00,095 : [INFO] - Received command c on object id p1
+2019-11-23 23:21:00,121 : [INFO] - Received command c on object id p1
+2019-11-23 23:21:00,134 : [INFO] - Received command c on object id p2
+2019-11-23 23:21:00,141 : [INFO] - Received command c on object id p2
+2019-11-23 23:21:00,151 : [INFO] - Received command c on object id p3
+2019-11-23 23:21:00,160 : [INFO] - Received command c on object id p3
+2019-11-23 23:21:00,165 : [INFO] - Received command c on object id p4
+2019-11-23 23:21:00,178 : [INFO] - Received command c on object id p4
+2019-11-23 23:21:00,188 : [INFO] - Received command c on object id p5
+2019-11-23 23:21:01,252 : [INFO] - Received command c on object id p5
+2019-11-23 23:22:15,925 : [INFO] - Starting Spark Streaming Context on Localhost
+2019-11-23 23:22:17,008 : [INFO] - Callback Server Starting
+2019-11-23 23:22:17,009 : [INFO] - Socket listening on ('127.0.0.1', 36617)
+2019-11-23 23:22:17,056 : [INFO] - Spark Streaming Context on localhost started
+2019-11-23 23:22:17,056 : [INFO] - Attempting to connect to Kafka Broker on Topic: mysimbdp on broker: localhost:9092
+2019-11-23 23:22:17,461 : [INFO] - Successfully connected to Kafka Broker on Topic: mysimbdp on broker: localhost:9092
+2019-11-23 23:22:17,473 : [INFO] - Starting analytics!
+2019-11-23 23:22:30,078 : [INFO] - Callback Connection ready to receive messages
+2019-11-23 23:22:30,078 : [INFO] - Received command c on object id p1
+2019-11-23 23:22:30,109 : [INFO] - Received command c on object id p1
+2019-11-23 23:22:30,120 : [INFO] - Received command c on object id p2
+2019-11-23 23:22:30,128 : [INFO] - Received command c on object id p2
+2019-11-23 23:22:30,139 : [INFO] - Received command c on object id p3
+2019-11-23 23:22:30,148 : [INFO] - Received command c on object id p3
+2019-11-23 23:22:30,156 : [INFO] - Received command c on object id p4
+2019-11-23 23:22:30,173 : [INFO] - Received command c on object id p4
+2019-11-23 23:22:30,184 : [INFO] - Received command c on object id p5
+2019-11-23 23:22:33,576 : [INFO] - Received command c on object id p5
+2019-11-23 23:23:00,013 : [INFO] - Received command c on object id p1
+2019-11-23 23:23:00,026 : [INFO] - Received command c on object id p1
+2019-11-23 23:23:00,037 : [INFO] - Received command c on object id p2
+2019-11-23 23:23:00,050 : [INFO] - Received command c on object id p2
+2019-11-23 23:23:00,063 : [INFO] - Received command c on object id p3
+2019-11-23 23:23:00,076 : [INFO] - Received command c on object id p3
+2019-11-23 23:23:00,078 : [INFO] - Received command c on object id p4
+2019-11-23 23:23:00,091 : [INFO] - Received command c on object id p4
+2019-11-23 23:23:00,092 : [INFO] - Received command c on object id p5
+2019-11-23 23:23:02,158 : [INFO] - Received command c on object id p5
+2019-11-23 23:23:30,012 : [INFO] - Received command c on object id p1
+2019-11-23 23:23:30,027 : [INFO] - Received command c on object id p1
+2019-11-23 23:23:30,039 : [INFO] - Received command c on object id p2
+2019-11-23 23:23:30,054 : [INFO] - Received command c on object id p2
+2019-11-23 23:23:30,064 : [INFO] - Received command c on object id p3
+2019-11-23 23:23:30,073 : [INFO] - Received command c on object id p3
+2019-11-23 23:23:30,076 : [INFO] - Received command c on object id p4
+2019-11-23 23:23:30,087 : [INFO] - Received command c on object id p4
+2019-11-23 23:23:30,088 : [INFO] - Received command c on object id p5
+2019-11-23 23:23:32,110 : [INFO] - Received command c on object id p5
+2019-11-23 23:24:00,010 : [INFO] - Received command c on object id p1
+2019-11-23 23:24:00,020 : [INFO] - Received command c on object id p1
+2019-11-23 23:24:00,026 : [INFO] - Received command c on object id p2
+2019-11-23 23:24:00,036 : [INFO] - Received command c on object id p2
+2019-11-23 23:24:00,044 : [INFO] - Received command c on object id p3
+2019-11-23 23:24:00,053 : [INFO] - Received command c on object id p3
+2019-11-23 23:24:00,054 : [INFO] - Received command c on object id p4
+2019-11-23 23:24:00,063 : [INFO] - Received command c on object id p4
+2019-11-23 23:24:00,064 : [INFO] - Received command c on object id p5
+2019-11-23 23:24:02,014 : [INFO] - Received command c on object id p5
+2019-11-23 23:24:30,021 : [INFO] - Received command c on object id p1
+2019-11-23 23:24:30,063 : [INFO] - Received command c on object id p1
+2019-11-23 23:24:30,077 : [INFO] - Received command c on object id p2
+2019-11-23 23:24:30,089 : [INFO] - Received command c on object id p2
+2019-11-23 23:24:30,096 : [INFO] - Received command c on object id p3
+2019-11-23 23:24:30,105 : [INFO] - Received command c on object id p3
+2019-11-23 23:24:30,106 : [INFO] - Received command c on object id p4
+2019-11-23 23:24:30,114 : [INFO] - Received command c on object id p4
+2019-11-23 23:24:30,114 : [INFO] - Received command c on object id p5
+2019-11-23 23:24:31,792 : [INFO] - Received command c on object id p5
+2019-11-23 23:25:00,014 : [INFO] - Received command c on object id p1
+2019-11-23 23:25:00,043 : [INFO] - Received command c on object id p1
+2019-11-23 23:25:00,056 : [INFO] - Received command c on object id p2
+2019-11-23 23:25:00,070 : [INFO] - Received command c on object id p2
+2019-11-23 23:25:00,079 : [INFO] - Received command c on object id p3
+2019-11-23 23:25:00,093 : [INFO] - Received command c on object id p3
+2019-11-23 23:25:00,094 : [INFO] - Received command c on object id p4
+2019-11-23 23:25:00,110 : [INFO] - Received command c on object id p4
+2019-11-23 23:25:00,111 : [INFO] - Received command c on object id p5
+2019-11-23 23:25:01,935 : [INFO] - Received command c on object id p5
+2019-11-23 23:25:30,006 : [INFO] - Received command c on object id p1
+2019-11-23 23:25:30,013 : [INFO] - Received command c on object id p1
+2019-11-23 23:25:30,018 : [INFO] - Received command c on object id p2
+2019-11-23 23:25:30,025 : [INFO] - Received command c on object id p2
+2019-11-23 23:25:30,030 : [INFO] - Received command c on object id p3
+2019-11-23 23:25:30,038 : [INFO] - Received command c on object id p3
+2019-11-23 23:25:30,039 : [INFO] - Received command c on object id p4
+2019-11-23 23:25:30,047 : [INFO] - Received command c on object id p4
+2019-11-23 23:25:30,048 : [INFO] - Received command c on object id p5
+2019-11-23 23:25:31,708 : [INFO] - Received command c on object id p5
+2019-11-23 23:26:00,010 : [INFO] - Received command c on object id p1
+2019-11-23 23:26:00,018 : [INFO] - Received command c on object id p1
+2019-11-23 23:26:00,023 : [INFO] - Received command c on object id p2
+2019-11-23 23:26:00,030 : [INFO] - Received command c on object id p2
+2019-11-23 23:26:00,035 : [INFO] - Received command c on object id p3
+2019-11-23 23:26:00,045 : [INFO] - Received command c on object id p3
+2019-11-23 23:26:00,046 : [INFO] - Received command c on object id p4
+2019-11-23 23:26:00,054 : [INFO] - Received command c on object id p4
+2019-11-23 23:26:00,055 : [INFO] - Received command c on object id p5
+2019-11-23 23:26:01,672 : [INFO] - Received command c on object id p5
+2019-11-23 23:26:30,021 : [INFO] - Received command c on object id p1
+2019-11-23 23:26:30,041 : [INFO] - Received command c on object id p1
+2019-11-23 23:26:30,048 : [INFO] - Received command c on object id p2
+2019-11-23 23:26:30,060 : [INFO] - Received command c on object id p2
+2019-11-23 23:26:30,066 : [INFO] - Received command c on object id p3
+2019-11-23 23:26:30,076 : [INFO] - Received command c on object id p3
+2019-11-23 23:26:30,077 : [INFO] - Received command c on object id p4
+2019-11-23 23:26:30,088 : [INFO] - Received command c on object id p4
+2019-11-23 23:26:30,089 : [INFO] - Received command c on object id p5
+2019-11-23 23:26:31,935 : [INFO] - Received command c on object id p5
+2019-11-23 23:27:00,020 : [INFO] - Received command c on object id p1
+2019-11-23 23:27:00,041 : [INFO] - Received command c on object id p1
+2019-11-23 23:27:00,050 : [INFO] - Received command c on object id p2
+2019-11-23 23:27:00,074 : [INFO] - Received command c on object id p2
+2019-11-23 23:27:00,082 : [INFO] - Received command c on object id p3
+2019-11-23 23:27:00,091 : [INFO] - Received command c on object id p3
+2019-11-23 23:27:00,092 : [INFO] - Received command c on object id p4
+2019-11-23 23:27:00,106 : [INFO] - Received command c on object id p4
+2019-11-23 23:27:00,107 : [INFO] - Received command c on object id p5
+2019-11-23 23:27:01,922 : [INFO] - Received command c on object id p5
+2019-11-23 23:27:30,015 : [INFO] - Received command c on object id p1
+2019-11-23 23:27:30,022 : [INFO] - Received command c on object id p1
+2019-11-23 23:27:30,027 : [INFO] - Received command c on object id p2
+2019-11-23 23:27:30,035 : [INFO] - Received command c on object id p2
+2019-11-23 23:27:30,040 : [INFO] - Received command c on object id p3
+2019-11-23 23:27:30,049 : [INFO] - Received command c on object id p3
+2019-11-23 23:27:30,049 : [INFO] - Received command c on object id p4
+2019-11-23 23:27:30,058 : [INFO] - Received command c on object id p4
+2019-11-23 23:27:30,058 : [INFO] - Received command c on object id p5
+2019-11-23 23:27:31,697 : [INFO] - Received command c on object id p5
+2019-11-23 23:28:00,016 : [INFO] - Received command c on object id p1
+2019-11-23 23:28:00,049 : [INFO] - Received command c on object id p1
+2019-11-23 23:28:00,063 : [INFO] - Received command c on object id p2
+2019-11-23 23:28:00,077 : [INFO] - Received command c on object id p2
+2019-11-23 23:28:00,082 : [INFO] - Received command c on object id p3
+2019-11-23 23:28:00,094 : [INFO] - Received command c on object id p3
+2019-11-23 23:28:00,095 : [INFO] - Received command c on object id p4
+2019-11-23 23:28:00,104 : [INFO] - Received command c on object id p4
+2019-11-23 23:28:00,104 : [INFO] - Received command c on object id p5
+2019-11-23 23:28:01,775 : [INFO] - Received command c on object id p5
+2019-11-23 23:28:30,005 : [INFO] - Received command c on object id p1
+2019-11-23 23:28:30,013 : [INFO] - Received command c on object id p1
+2019-11-23 23:28:30,018 : [INFO] - Received command c on object id p2
+2019-11-23 23:28:30,027 : [INFO] - Received command c on object id p2
+2019-11-23 23:28:30,032 : [INFO] - Received command c on object id p3
+2019-11-23 23:28:30,042 : [INFO] - Received command c on object id p3
+2019-11-23 23:28:30,043 : [INFO] - Received command c on object id p4
+2019-11-23 23:28:30,053 : [INFO] - Received command c on object id p4
+2019-11-23 23:28:30,053 : [INFO] - Received command c on object id p5
+2019-11-23 23:28:31,924 : [INFO] - Received command c on object id p5
+2019-11-23 23:29:00,016 : [INFO] - Received command c on object id p1
+2019-11-23 23:29:00,037 : [INFO] - Received command c on object id p1
+2019-11-23 23:29:00,043 : [INFO] - Received command c on object id p2
+2019-11-23 23:29:00,054 : [INFO] - Received command c on object id p2
+2019-11-23 23:29:00,059 : [INFO] - Received command c on object id p3
+2019-11-23 23:29:00,069 : [INFO] - Received command c on object id p3
+2019-11-23 23:29:00,070 : [INFO] - Received command c on object id p4
+2019-11-23 23:29:00,080 : [INFO] - Received command c on object id p4
+2019-11-23 23:29:00,081 : [INFO] - Received command c on object id p5
+2019-11-23 23:29:00,311 : [INFO] - Received command c on object id p5
+2019-11-23 23:29:30,594 : [INFO] - Starting Spark Streaming Context on Localhost
+2019-11-23 23:29:31,570 : [INFO] - Callback Server Starting
+2019-11-23 23:29:31,571 : [INFO] - Socket listening on ('127.0.0.1', 32835)
+2019-11-23 23:29:31,630 : [INFO] - Spark Streaming Context on localhost started
+2019-11-23 23:29:31,630 : [INFO] - Attempting to connect to Kafka Broker on Topic: mysimbdp on broker: localhost:9092
+2019-11-23 23:29:32,044 : [INFO] - Successfully connected to Kafka Broker on Topic: mysimbdp on broker: localhost:9092
+2019-11-23 23:29:32,054 : [INFO] - Starting analytics!
+2019-11-23 23:30:00,086 : [INFO] - Callback Connection ready to receive messages
+2019-11-23 23:30:00,087 : [INFO] - Received command c on object id p1
+2019-11-23 23:30:00,112 : [INFO] - Received command c on object id p1
+2019-11-23 23:30:00,121 : [INFO] - Received command c on object id p2
+2019-11-23 23:30:00,129 : [INFO] - Received command c on object id p2
+2019-11-23 23:30:00,138 : [INFO] - Received command c on object id p3
+2019-11-23 23:30:00,146 : [INFO] - Received command c on object id p3
+2019-11-23 23:30:00,151 : [INFO] - Received command c on object id p4
+2019-11-23 23:30:00,167 : [INFO] - Received command c on object id p4
+2019-11-23 23:30:00,177 : [INFO] - Received command c on object id p5
+2019-11-23 23:30:03,103 : [INFO] - Received command c on object id p5
+2019-11-23 23:30:30,016 : [INFO] - Received command c on object id p1
+2019-11-23 23:30:30,025 : [INFO] - Received command c on object id p1
+2019-11-23 23:30:30,032 : [INFO] - Received command c on object id p2
+2019-11-23 23:30:30,041 : [INFO] - Received command c on object id p2
+2019-11-23 23:30:30,047 : [INFO] - Received command c on object id p3
+2019-11-23 23:30:30,057 : [INFO] - Received command c on object id p3
+2019-11-23 23:30:30,058 : [INFO] - Received command c on object id p4
+2019-11-23 23:30:30,068 : [INFO] - Received command c on object id p4
+2019-11-23 23:30:30,069 : [INFO] - Received command c on object id p5
+2019-11-23 23:30:31,939 : [INFO] - Received command c on object id p5
+2019-11-23 23:31:00,021 : [INFO] - Received command c on object id p1
+2019-11-23 23:31:00,046 : [INFO] - Received command c on object id p1
+2019-11-23 23:31:00,057 : [INFO] - Received command c on object id p2
+2019-11-23 23:31:00,071 : [INFO] - Received command c on object id p2
+2019-11-23 23:31:00,077 : [INFO] - Received command c on object id p3
+2019-11-23 23:31:00,086 : [INFO] - Received command c on object id p3
+2019-11-23 23:31:00,087 : [INFO] - Received command c on object id p4
+2019-11-23 23:31:00,098 : [INFO] - Received command c on object id p4
+2019-11-23 23:31:00,099 : [INFO] - Received command c on object id p5
+2019-11-23 23:31:01,865 : [INFO] - Received command c on object id p5
+2019-11-23 23:31:30,018 : [INFO] - Received command c on object id p1
+2019-11-23 23:31:30,029 : [INFO] - Received command c on object id p1
+2019-11-23 23:31:30,034 : [INFO] - Received command c on object id p2
+2019-11-23 23:31:30,041 : [INFO] - Received command c on object id p2
+2019-11-23 23:31:30,046 : [INFO] - Received command c on object id p3
+2019-11-23 23:31:30,054 : [INFO] - Received command c on object id p3
+2019-11-23 23:31:30,055 : [INFO] - Received command c on object id p4
+2019-11-23 23:31:30,066 : [INFO] - Received command c on object id p4
+2019-11-23 23:31:30,067 : [INFO] - Received command c on object id p5
+2019-11-23 23:31:31,797 : [INFO] - Received command c on object id p5
+2019-11-23 23:44:05,760 : [INFO] - Starting Spark Streaming Context on Localhost
+2019-11-23 23:44:06,957 : [INFO] - Callback Server Starting
+2019-11-23 23:44:06,957 : [INFO] - Socket listening on ('127.0.0.1', 37243)
+2019-11-23 23:44:07,007 : [INFO] - Spark Streaming Context on localhost started
+2019-11-23 23:44:07,007 : [INFO] - Attempting to connect to Kafka Broker on Topic: mysimbdp on broker: localhost:9092
+2019-11-23 23:44:07,417 : [INFO] - Successfully connected to Kafka Broker on Topic: mysimbdp on broker: localhost:9092
+2019-11-23 23:44:07,430 : [INFO] - Starting analytics!

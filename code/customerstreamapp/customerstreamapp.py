@@ -13,6 +13,7 @@ logging.basicConfig(filename= "../../logs/mysimbdp_customerStreamApp.log" , file
 topic = "mysimbdp"
 topic_report = 'mysimbdp-clientReport'
 broker = "localhost:9092"
+num_streams = 3
 
 #window duration in seconds
 WINDOW_DURATION = 30 * 60 * 60
@@ -84,11 +85,13 @@ logging.info("Spark Streaming Context on localhost started")
 
 
 logging.info(f"Attempting to connect to Kafka Broker on Topic: {topic} on broker: {broker}")
-directKafkaStream = KafkaUtils.createDirectStream(ssc, [], {"metadata.broker.list": broker})
+
+kafkaStreams = [KafkaUtils.createDirectStream(ssc, [], {"metadata.broker.list": broker}) for _ in range (num_streams)]
+unifiedStream = ssc.union(*kafkaStreams)
 logging.info(f"Successfully connected to Kafka Broker on Topic: {topic} on broker: {broker}")
 
 
-lines = directKafkaStream.map(lambda x: x[1])
+lines = unifiedStream.map(lambda x: x[1])
 
 processed_job = lines.map(process)
      

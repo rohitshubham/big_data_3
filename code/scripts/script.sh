@@ -10,6 +10,9 @@ export JAVA_HOME
 export JAVA_HOME
 export PATH
 
+sudo docker-compose -d ../mysimbdp-broker/ up
+
+sudo docker run redis:latest
 
 #Run the code
 #This will automatically fetch Kafka streaming jar file from Maven Repo
