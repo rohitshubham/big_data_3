@@ -1,2 +1,113 @@
-the content of this file should be the output of the log of your own git project for this assignment
-using git log command to export your git log
+commit 7857253551ec29c299782de89c19220ead968d5e
+Author: Rohit Raj <rohit.raj@aalto.fi>
+Date:   Tue Nov 26 20:03:08 2019 +0200
+
+    Wrote other deployment file and cleaned up the assignment folder
+
+commit ce826f6a36f66afaaabad688fda7b2f21f68371c
+Author: Rohit Raj <rohit.raj@aalto.fi>
+Date:   Tue Nov 26 20:02:07 2019 +0200
+
+    Completed the report
+
+commit c3468afcb38fc48ecc119822128a6445ab20f47b
+Author: Rohit Raj <rohit.raj@aalto.fi>
+Date:   Sun Nov 24 03:06:10 2019 +0200
+
+    Added some more report for part 3
+
+commit b18b917e9319571ffcea625cb0590e7e05cfe06e
+Author: Rohit Raj <rohit.raj@aalto.fi>
+Date:   Sun Nov 24 02:17:51 2019 +0200
+
+    Completed part 2 of the report and tested some degree of parallelism. Also some diagrams added
+
+commit 5f08a6dae37334aa0070da2f9f7c9d7bf48db6bf
+Author: Rohit Raj <rohit.raj@aalto.fi>
+Date:   Sat Nov 23 21:22:32 2019 +0200
+
+    Added answers to part 2
+
+commit 273529a566a86c5a0d309ae8df81ebf74a9fc7d3
+Author: Rohit Raj <rohit.raj@aalto.fi>
+Date:   Tue Nov 19 20:57:59 2019 +0200
+
+    Completed spark analysis and messages
+
+commit b5d2b7c06e8d9360dfa71c9a2759fa7b70c2faee
+Author: Rohit Raj <rohit.raj@aalto.fi>
+Date:   Tue Nov 19 19:03:12 2019 +0200
+
+    Added Client history
+
+commit eabaebf0c74b2eb039f31776e675ed764fe7b2fb
+Author: Rohit Raj <rohit.raj@aalto.fi>
+Date:   Tue Nov 19 01:12:40 2019 +0200
+
+    Started sending report over kafka
+
+commit ffd542e3b975a1ad85da435e1e5695b89e9a71d5
+Author: Rohit Raj <rohit.raj@aalto.fi>
+Date:   Mon Nov 18 21:47:58 2019 +0200
+
+    Added Spark Streaming simple example
+
+commit 48ee3c8e36e6082b0dde0dfcefb79264e2bb4ab0
+Author: Rohit Raj <rohit.raj@aalto.fi>
+Date:   Mon Nov 11 21:45:10 2019 +0200
+
+    Completed part 1 of the assignment
+
+commit c29f96ea2d1e32ee9edeab83a08a71606df3c7df
+Author: Rohit Raj <rohit.raj@aalto.fi>
+Date:   Sun Nov 10 21:15:48 2019 +0200
+
+    Started writing the report
+
+commit 09e04b6bd6e03aa114452057682f1b4846ca2db9
+Author: linhsolar <linh.truong@aalto.fi>
+Date:   Mon Oct 7 10:47:36 2019 +0300
+
+    just add empty, free form report files
+
+commit 3a9bfe90cbfb04f7aedc98f8b20df4524a45bc13
+Author: linhsolar <linh.truong@aalto.fi>
+Date:   Wed Sep 18 21:43:48 2019 +0300
+
+    update guideline w.r.t. logs from the git
+
+commit 2339a00270b3d4d23c7f7f2b738f5a7f9aa2c3a2
+Author: linhsolar <linh.truong@aalto.fi>
+Date:   Sun Sep 8 22:27:02 2019 +0300
+
+    update guide
+
+commit 9e8bd269fccdccd2edd7059765afc2f9e2f80c79
+Author: linhsolar <linh.truong@aalto.fi>
+Date:   Sun Sep 8 13:29:13 2019 +0300
+
+    update a bit the guide
+
+commit 5423f13164c1637f17e247c415a8590cfdfd468e
+Author: linhsolar <linh.truong@aalto.fi>
+Date:   Sun Sep 8 13:27:06 2019 +0300
+
+    add new templates
+
+commit d89f35ba5a4d18feccfc78e29e3dd35b70fc92ef
+Author: linhsolar <linh.truong@aalto.fi>
+Date:   Thu Sep 5 21:12:48 2019 +0300
+
+    update guideline
+
+commit 8354163f0cbbf301e550ef7090d4fa86f9059b99
+Author: linhsolar <linh.truong@aalto.fi>
+Date:   Thu Sep 5 21:11:02 2019 +0300
+
+    add template/guideline
+
+commit 7e0b9fbc36f51902e9bd21f2bb97bfdd924b0edd
+Author: Linh Truong <linh.truong@aalto.fi>
+Date:   Thu Sep 5 17:19:38 2019 +0300
+
+    Initial commit
