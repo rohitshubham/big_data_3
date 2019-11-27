@@ -75,7 +75,7 @@ The various components are:
 
 We are sending the alert on a different topic `mysimbdp-clientReport` using the same Kafka broker. In the pseudo-code we have a threshold of time before we send the alert. For example: if the last_location is kitchen and the gap is more than 1 hour, we send the alert. Similar thresholds have been defined for every different room. 
 
-The pseudo-code should run over every message of the RDD in the DStream. Hence, we have used  `.map()` for iterating over the message, and `.foreachRDD()` for iterating over every DStream. The `map` method expects a function where we supply our `process()` method.  
+The pseudo-code should run over every message of the RDD in the DStream. Hence, we have used  `.map()` for iterating over the message, and `.foreachRDD()` for iterating over every RDD. The `map` method expects a function where we supply our `process()` method.  
 
 
 3. The client stream application was submitted to the `Spark` platform using the following command:
